@@ -1,0 +1,25 @@
+{"tsf-batch-settings":
+  {
+    "description":"New Sample Dataset - price and income elasticity on volume",
+    "dataset":"new sample dataset.xlsx",
+    "variables":["Per_capita_Volume","Time","Rprice","Real_GDP_Per_Capita","Trend","COVID"],
+    "dependent-var":"Per_capita_Volume",
+    "transformation-example-1":{"log":["vol_per_capita"],"sqrt":["Tourists"],"boxcox":["Employment"]},
+    "transformation-example-2":"None",
+    "transformation":{"log":["vol_per_capita"]},
+    "fixed-xvars":["Rprice","Real_GDP_Per_Capita"],
+    "elasticity-feature-increase-by-percent":{"Rprice":10,"Real_GDP_Per_Capita":10},
+    "NPI-growth-dataset":"NPI growth data.xlsx",
+    "Actual-vol-column":"Actual Volume",
+    "elasticity-trend":"Trend",
+    "indexed on": "Time",
+    "frequency":"QS",
+    "train-test-ratio":0.80,
+    "decision param":["AIC","MAPE"],
+    "signficance":0.05,
+    "auto-arima":"no",
+    "ts-order":{"p_max":1,"d_max":0,"q_max":0},
+    "coeff-signs":{"positive":["Real_GDP_Per_Capita"],"negative":["Rprice"]},
+    "round-off-summary-data":"Yes"
+  }
+}

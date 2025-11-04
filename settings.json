@@ -1,0 +1,9 @@
+{"anuman-settings":
+  {
+    "frequency":["Daily","Weekly","Monthly","Quarterly","Annually"],
+    "freq-default-index":3,
+    "transformations": ["No Transformation","Power with Sqrt","Log","Boxcox"],
+    "train-test split ratio":0.85,
+    "screen-res":"High"
+  }
+}

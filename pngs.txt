@@ -1,0 +1,15 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 9450-CF7F
+
+ Directory of D:\TechLabs\MSG - TSF\TARIMAX
+
+10/01/2021  11:54 AM            20,118 anuman.png
+10/02/2021  07:55 AM            22,784 dashboard.png
+10/02/2021  07:52 AM            13,259 dataset.png
+10/24/2021  06:09 PM             4,058 run.png
+11/26/2021  01:20 PM            31,442 setup.png
+02/10/2022  03:51 PM            52,438 start afefx.png
+02/02/2022  04:22 PM             5,619 tsf-fx.png
+02/10/2022  03:34 PM             7,818 tsf-fx_ccexpress.png
+               8 File(s)        157,536 bytes
+               0 Dir(s)  54,717,644,800 bytes free

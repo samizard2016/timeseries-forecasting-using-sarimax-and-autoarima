@@ -1,0 +1,1824 @@
+06-01-2023 16:43:12 INFO     [anuman.py:50] A new session starts
+06-01-2023 16:43:12 INFO     [anuman.py:1375] in the dashboard
+06-01-2023 16:43:13 ERROR    [anuman.py:1280] set_values_to_UI_afefx: [Errno 2] No such file or directory: 'select the dataset'
+06-01-2023 16:43:36 INFO     [anuman.py:543] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/Training_Punjab.xlsx has been selected
+06-01-2023 16:43:53 INFO     [tarimax.py:55] date_var Period dv Period period Monthly
+06-01-2023 16:43:58 INFO     [tarimax.py:55] date_var Period dv Per_capita_vol period Monthly
+06-01-2023 16:43:58 INFO     [tarimax.py:140] set to non seasonal
+06-01-2023 16:43:58 INFO     [anuman.py:1535] Dashboard cm
+06-01-2023 16:43:58 INFO     [anuman.py:1568] updating cm chart
+06-01-2023 16:43:58 INFO     [anuman.py:1375] in the dashboard
+06-01-2023 16:44:26 INFO     [tarimax.py:55] date_var Period dv Period period Monthly
+06-01-2023 16:44:52 INFO     [tarimax.py:55] date_var Period dv Per_capita_vol period Monthly
+06-01-2023 16:44:52 INFO     [tarimax.py:140] set to non seasonal
+06-01-2023 16:44:52 INFO     [anuman.py:1375] in the dashboard
+06-01-2023 16:59:46 INFO     [anuman.py:50] A new session starts
+06-01-2023 16:59:47 INFO     [anuman.py:1375] in the dashboard
+06-01-2023 17:00:05 INFO     [anuman.py:543] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/Training_Punjab.xlsx has been selected
+06-01-2023 17:00:11 INFO     [tarimax.py:55] date_var Period dv Period period Quarterly
+06-01-2023 17:00:14 INFO     [tarimax.py:55] date_var Period dv Period period Quarterly
+06-01-2023 17:00:15 INFO     [tarimax.py:55] date_var Period dv Period period Quarterly
+06-01-2023 17:00:19 INFO     [tarimax.py:55] date_var Period dv Period period Monthly
+06-01-2023 17:00:24 INFO     [tarimax.py:55] date_var Period dv Per_capita_vol period Monthly
+06-01-2023 17:00:24 INFO     [tarimax.py:140] set to non seasonal
+06-01-2023 17:00:24 INFO     [anuman.py:1535] Dashboard cm
+06-01-2023 17:00:24 INFO     [anuman.py:1568] updating cm chart
+06-01-2023 17:00:25 INFO     [anuman.py:1375] in the dashboard
+06-01-2023 17:17:10 INFO     [anuman.py:50] A new session starts
+06-01-2023 17:17:11 INFO     [anuman.py:1376] in the dashboard
+06-01-2023 17:17:24 INFO     [anuman.py:543] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/Training_Punjab.xlsx has been selected
+06-01-2023 17:17:29 INFO     [tarimax.py:55] date_var Period dv Period period Quarterly
+06-01-2023 17:17:30 INFO     [tarimax.py:55] date_var Period dv Period period Quarterly
+06-01-2023 17:17:41 INFO     [tarimax.py:55] date_var Period dv Period period Monthly
+06-01-2023 17:17:45 INFO     [tarimax.py:55] date_var Period dv Per_capita_vol period Monthly
+06-01-2023 17:17:45 INFO     [tarimax.py:140] set to non seasonal
+06-01-2023 17:17:45 INFO     [anuman.py:1538] Dashboard cm
+06-01-2023 17:17:45 INFO     [anuman.py:1572] updating cm chart
+06-01-2023 17:17:46 INFO     [anuman.py:1376] in the dashboard
+06-01-2023 17:31:55 INFO     [anuman.py:50] A new session starts
+06-01-2023 17:31:56 INFO     [anuman.py:1377] in the dashboard
+06-01-2023 17:31:56 INFO     [anuman.py:1421] dashboard rendered successfully
+06-01-2023 17:32:11 INFO     [anuman.py:544] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/Training_Punjab.xlsx has been selected
+06-01-2023 17:32:17 INFO     [tarimax.py:55] date_var Period dv Period period Quarterly
+06-01-2023 17:32:17 INFO     [anuman.py:447] dataset prepared successfully
+06-01-2023 17:32:18 INFO     [tarimax.py:55] date_var Period dv Period period Quarterly
+06-01-2023 17:32:18 INFO     [anuman.py:447] dataset prepared successfully
+06-01-2023 17:32:23 INFO     [tarimax.py:55] date_var Period dv Period period Monthly
+06-01-2023 17:32:23 INFO     [anuman.py:447] dataset prepared successfully
+06-01-2023 17:32:29 INFO     [tarimax.py:55] date_var Period dv Per_capita_vol period Monthly
+06-01-2023 17:32:29 INFO     [anuman.py:447] dataset prepared successfully
+06-01-2023 17:32:29 INFO     [tarimax.py:140] set to non seasonal
+06-01-2023 17:32:29 INFO     [anuman.py:1540] Dashboard cm
+06-01-2023 17:32:29 INFO     [anuman.py:1574] updating cm chart
+06-01-2023 17:32:30 INFO     [anuman.py:1377] in the dashboard
+06-01-2023 17:32:30 INFO     [anuman.py:1421] dashboard rendered successfully
+09-01-2023 09:37:37 INFO     [anuman.py:50] A new session starts
+09-01-2023 09:37:38 INFO     [anuman.py:1379] in the dashboard
+09-01-2023 09:37:38 INFO     [anuman.py:1423] dashboard rendered successfully
+09-01-2023 09:38:04 INFO     [anuman.py:543] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/Training_Punjab.xlsx has been selected
+09-01-2023 09:38:10 INFO     [tarimax.py:55] date_var Period dv Period period Quarterly
+09-01-2023 09:38:10 INFO     [anuman.py:446] dataset prepared successfully
+09-01-2023 09:38:26 INFO     [tarimax.py:55] date_var Period dv Period period Monthly
+09-01-2023 09:38:26 INFO     [anuman.py:446] dataset prepared successfully
+09-01-2023 09:38:34 INFO     [tarimax.py:55] date_var Period dv Per_capita_vol period Monthly
+09-01-2023 09:38:34 INFO     [anuman.py:446] dataset prepared successfully
+09-01-2023 09:38:34 INFO     [tarimax.py:140] set to non seasonal
+09-01-2023 09:38:35 INFO     [anuman.py:1542] Dashboard cm
+09-01-2023 09:38:35 INFO     [anuman.py:1576] updating cm chart
+09-01-2023 09:38:36 INFO     [anuman.py:1379] in the dashboard
+09-01-2023 09:38:36 INFO     [anuman.py:1423] dashboard rendered successfully
+09-01-2023 09:39:30 INFO     [anuman.py:50] A new session starts
+09-01-2023 09:39:31 INFO     [anuman.py:1379] in the dashboard
+09-01-2023 09:39:31 INFO     [anuman.py:1423] dashboard rendered successfully
+09-01-2023 09:45:15 INFO     [anuman.py:50] A new session starts
+09-01-2023 09:45:15 INFO     [anuman.py:1379] in the dashboard
+09-01-2023 09:45:15 INFO     [anuman.py:1423] dashboard rendered successfully
+09-01-2023 09:45:35 INFO     [anuman.py:543] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/Training_Punjab.xlsx has been selected
+09-01-2023 09:45:41 INFO     [tarimax.py:55] date_var Period dv Period period Quarterly
+09-01-2023 09:45:41 INFO     [anuman.py:446] dataset prepared successfully
+09-01-2023 09:45:42 INFO     [tarimax.py:55] date_var Period dv Period period Quarterly
+09-01-2023 09:45:42 INFO     [anuman.py:446] dataset prepared successfully
+09-01-2023 09:45:44 INFO     [tarimax.py:55] date_var Period dv Period period Quarterly
+09-01-2023 09:45:44 INFO     [anuman.py:446] dataset prepared successfully
+09-01-2023 09:45:45 INFO     [tarimax.py:55] date_var Period dv Period period Quarterly
+09-01-2023 09:45:45 INFO     [anuman.py:446] dataset prepared successfully
+09-01-2023 09:45:48 INFO     [tarimax.py:55] date_var Period dv Period period Monthly
+09-01-2023 09:45:48 INFO     [anuman.py:446] dataset prepared successfully
+09-01-2023 09:45:53 INFO     [tarimax.py:55] date_var Period dv Per_capita_vol period Monthly
+09-01-2023 09:45:53 INFO     [anuman.py:446] dataset prepared successfully
+09-01-2023 09:45:53 INFO     [tarimax.py:140] set to non seasonal
+09-01-2023 09:45:53 INFO     [anuman.py:1543] Dashboard cm
+09-01-2023 09:45:53 INFO     [anuman.py:1577] updating cm chart
+09-01-2023 09:45:54 INFO     [anuman.py:1379] in the dashboard
+09-01-2023 09:45:54 INFO     [anuman.py:1423] dashboard rendered successfully
+09-01-2023 09:46:04 INFO     [anuman.py:50] A new session starts
+09-01-2023 09:46:04 INFO     [anuman.py:1379] in the dashboard
+09-01-2023 09:46:04 INFO     [anuman.py:1423] dashboard rendered successfully
+09-01-2023 10:16:19 INFO     [anuman.py:50] A new session starts
+09-01-2023 10:16:20 INFO     [anuman.py:1379] in the dashboard
+09-01-2023 10:16:20 INFO     [anuman.py:1423] dashboard rendered successfully
+09-01-2023 10:16:46 INFO     [anuman.py:543] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/Training_Punjab.xlsx has been selected
+09-01-2023 10:16:55 INFO     [tarimax.py:55] date_var Period dv Period period Quarterly
+09-01-2023 10:16:55 INFO     [anuman.py:446] dataset prepared successfully
+09-01-2023 10:16:59 INFO     [tarimax.py:55] date_var Period dv Period period Monthly
+09-01-2023 10:16:59 INFO     [anuman.py:446] dataset prepared successfully
+09-01-2023 10:17:06 INFO     [tarimax.py:55] date_var Period dv Per_capita_vol period Monthly
+09-01-2023 10:17:06 INFO     [anuman.py:446] dataset prepared successfully
+09-01-2023 10:17:06 INFO     [tarimax.py:140] set to non seasonal
+09-01-2023 10:17:06 INFO     [anuman.py:1543] Dashboard cm
+09-01-2023 10:17:06 INFO     [anuman.py:1577] updating cm chart
+09-01-2023 10:17:06 ERROR    [anuman.py:676] show_dashboard: 'numpy.ndarray' object is not callable
+09-01-2023 10:17:11 INFO     [tarimax.py:55] date_var Period dv Per_capita_vol period Monthly
+09-01-2023 10:17:11 INFO     [anuman.py:446] dataset prepared successfully
+09-01-2023 10:17:11 INFO     [tarimax.py:140] set to non seasonal
+09-01-2023 10:17:11 INFO     [anuman.py:1379] in the dashboard
+09-01-2023 10:17:11 INFO     [anuman.py:1423] dashboard rendered successfully
+09-01-2023 10:20:23 INFO     [anuman.py:50] A new session starts
+09-01-2023 10:20:23 INFO     [anuman.py:1379] in the dashboard
+09-01-2023 10:20:23 INFO     [anuman.py:1423] dashboard rendered successfully
+09-01-2023 10:20:30 INFO     [anuman.py:543] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/Training_Punjab.xlsx has been selected
+09-01-2023 10:20:33 INFO     [tarimax.py:55] date_var Period dv Period period Quarterly
+09-01-2023 10:20:33 INFO     [anuman.py:446] dataset prepared successfully
+09-01-2023 10:20:34 INFO     [tarimax.py:55] date_var Period dv Period period Quarterly
+09-01-2023 10:20:34 INFO     [anuman.py:446] dataset prepared successfully
+09-01-2023 10:20:35 INFO     [tarimax.py:55] date_var Period dv Period period Quarterly
+09-01-2023 10:20:35 INFO     [anuman.py:446] dataset prepared successfully
+09-01-2023 10:20:39 INFO     [tarimax.py:55] date_var Period dv Period period Monthly
+09-01-2023 10:20:39 INFO     [anuman.py:446] dataset prepared successfully
+09-01-2023 10:20:44 INFO     [tarimax.py:55] date_var Period dv Per_capita_vol period Monthly
+09-01-2023 10:20:44 INFO     [anuman.py:446] dataset prepared successfully
+09-01-2023 10:20:44 INFO     [tarimax.py:140] set to non seasonal
+09-01-2023 10:20:44 INFO     [anuman.py:1543] Dashboard cm
+09-01-2023 10:20:44 INFO     [anuman.py:1577] updating cm chart
+09-01-2023 10:20:44 ERROR    [anuman.py:676] show_dashboard: Line2D.set() got an unexpected keyword argument 'ax'
+09-01-2023 10:20:46 INFO     [tarimax.py:55] date_var Period dv Per_capita_vol period Monthly
+09-01-2023 10:20:46 INFO     [anuman.py:446] dataset prepared successfully
+09-01-2023 10:20:46 INFO     [tarimax.py:140] set to non seasonal
+09-01-2023 10:20:46 INFO     [anuman.py:1379] in the dashboard
+09-01-2023 10:20:47 INFO     [anuman.py:1423] dashboard rendered successfully
+14-03-2023 15:43:52 INFO     [anuman.py:50] A new session starts
+14-03-2023 15:44:00 INFO     [anuman.py:1379] in the dashboard
+14-03-2023 15:44:00 INFO     [anuman.py:1423] dashboard rendered successfully
+14-03-2023 15:44:45 INFO     [anuman.py:543] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/Training_Punjab.xlsx has been selected
+14-03-2023 15:46:43 WARNING  [anuman.py:475] update_list_fix_vars: list.remove(x): x not in list
+14-03-2023 15:47:01 WARNING  [anuman.py:475] update_list_fix_vars: list.remove(x): x not in list
+14-03-2023 15:47:01 WARNING  [anuman.py:475] update_list_fix_vars: list.remove(x): x not in list
+14-03-2023 15:54:52 INFO     [anuman.py:50] A new session starts
+14-03-2023 15:54:53 INFO     [anuman.py:1379] in the dashboard
+14-03-2023 15:54:53 INFO     [anuman.py:1423] dashboard rendered successfully
+14-03-2023 15:55:05 INFO     [anuman.py:543] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/Training_Punjab.xlsx has been selected
+14-03-2023 15:55:15 INFO     [anuman.py:543] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/Training_Punjab.xlsx has been selected
+14-03-2023 15:56:03 INFO     [anuman.py:543] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+14-03-2023 15:56:03 ERROR    [anuman.py:1283] set_values_to_UI_afefx: [Errno 2] No such file or directory: 'select the dataset'
+14-03-2023 15:56:03 INFO     [tsbatch.py:54] A new session starts
+14-03-2023 15:56:03 INFO     [tsbatch.py:415] indexed on: 
+14-03-2023 15:56:03 INFO     [tsbatch.py:416] frequency: 
+14-03-2023 15:56:03 ERROR    [tsbatch.py:480] prepare_dataset: [Errno 2] No such file or directory: 'select the dataset'
+14-03-2023 15:56:36 INFO     [anuman.py:543] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/another test settings.afefx has been selected
+14-03-2023 15:56:37 WARNING  [anuman.py:475] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+14-03-2023 15:56:37 WARNING  [anuman.py:475] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+14-03-2023 15:56:37 ERROR    [anuman.py:1283] set_values_to_UI_afefx: 'transform-variables'
+14-03-2023 15:56:37 INFO     [tsbatch.py:54] A new session starts
+14-03-2023 15:56:37 INFO     [tsbatch.py:415] indexed on: Time
+14-03-2023 15:56:37 INFO     [tsbatch.py:416] frequency: Quarterly (Start)
+14-03-2023 15:56:37 INFO     [tsbatch.py:418] variables: ['Time', 'Rprice', 'Real_GDP_Per_Capita', 'Per_capita_Volume', 'Trend', 'COVID', 'Actual Volume']
+14-03-2023 15:56:37 INFO     [tsbatch.py:423] frequency code: QS
+14-03-2023 15:56:37 INFO     [tsbatch.py:427] vars after removing index var: ['Rprice', 'Real_GDP_Per_Capita', 'Per_capita_Volume', 'Trend', 'COVID', 'Actual Volume']
+14-03-2023 15:56:37 ERROR    [tsbatch.py:480] prepare_dataset: "['Rprice', 'Real_GDP_Per_Capita'] not in index"
+14-03-2023 15:57:14 INFO     [anuman.py:50] A new session starts
+14-03-2023 15:57:15 INFO     [anuman.py:1379] in the dashboard
+14-03-2023 15:57:15 INFO     [anuman.py:1423] dashboard rendered successfully
+14-03-2023 15:57:34 INFO     [anuman.py:543] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/Training_Punjab.xlsx has been selected
+14-03-2023 16:19:20 INFO     [anuman.py:50] A new session starts
+14-03-2023 16:19:21 INFO     [anuman.py:1380] in the dashboard
+14-03-2023 16:19:21 INFO     [anuman.py:1424] dashboard rendered successfully
+14-03-2023 16:19:35 INFO     [anuman.py:544] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/Training_Punjab.xlsx has been selected
+14-03-2023 16:19:36 ERROR    [anuman.py:1284] set_values_to_UI_afefx: [Errno 2] No such file or directory: 'select the dataset'
+14-03-2023 16:20:39 WARNING  [anuman.py:476] update_list_fix_vars: list.remove(x): x not in list
+14-03-2023 16:20:46 INFO     [anuman.py:544] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/another test settings.afefx has been selected
+14-03-2023 16:20:46 WARNING  [anuman.py:476] update_list_fix_vars: list.remove(x): x not in list
+14-03-2023 16:20:46 ERROR    [anuman.py:1284] set_values_to_UI_afefx: 'transform-variables'
+14-03-2023 16:20:46 INFO     [tsbatch.py:54] A new session starts
+14-03-2023 16:20:46 INFO     [tsbatch.py:415] indexed on: Time
+14-03-2023 16:20:46 INFO     [tsbatch.py:416] frequency: Quarterly (Start)
+14-03-2023 16:20:46 INFO     [tsbatch.py:418] variables: ['Time', 'Rprice', 'Real_GDP_Per_Capita', 'Per_capita_Volume', 'Trend', 'COVID', 'Actual Volume']
+14-03-2023 16:20:46 INFO     [tsbatch.py:423] frequency code: QS
+14-03-2023 16:20:46 INFO     [tsbatch.py:427] vars after removing index var: ['Rprice', 'Real_GDP_Per_Capita', 'Per_capita_Volume', 'Trend', 'COVID', 'Actual Volume']
+14-03-2023 16:20:46 ERROR    [tsbatch.py:480] prepare_dataset: "['Rprice', 'Real_GDP_Per_Capita'] not in index"
+14-03-2023 16:29:08 INFO     [anuman.py:50] A new session starts
+14-03-2023 16:29:09 INFO     [anuman.py:1382] in the dashboard
+14-03-2023 16:29:09 INFO     [anuman.py:1426] dashboard rendered successfully
+14-03-2023 16:29:20 INFO     [anuman.py:546] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/Training_Punjab.xlsx has been selected
+14-03-2023 16:30:57 INFO     [anuman.py:50] A new session starts
+14-03-2023 16:30:57 INFO     [anuman.py:1382] in the dashboard
+14-03-2023 16:30:57 INFO     [anuman.py:1426] dashboard rendered successfully
+14-03-2023 16:31:14 INFO     [anuman.py:546] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/Training_Punjab.xlsx has been selected
+14-03-2023 16:37:21 INFO     [anuman.py:50] A new session starts
+14-03-2023 16:37:21 INFO     [anuman.py:1384] in the dashboard
+14-03-2023 16:37:21 INFO     [anuman.py:1428] dashboard rendered successfully
+14-03-2023 16:37:46 INFO     [anuman.py:548] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/Training_Punjab.xlsx has been selected
+14-03-2023 17:57:09 INFO     [anuman.py:50] A new session starts
+14-03-2023 17:57:11 INFO     [anuman.py:1384] in the dashboard
+14-03-2023 17:57:11 INFO     [anuman.py:1428] dashboard rendered successfully
+14-03-2023 17:57:35 INFO     [anuman.py:548] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/Training_Punjab.xlsx has been selected
+26-04-2023 11:50:06 INFO     [anuman.py:50] A new session starts
+26-04-2023 11:50:06 INFO     [anuman.py:1384] in the dashboard
+26-04-2023 11:50:06 INFO     [anuman.py:1428] dashboard rendered successfully
+26-04-2023 12:00:36 INFO     [anuman.py:50] A new session starts
+26-04-2023 12:00:36 INFO     [anuman.py:1384] in the dashboard
+26-04-2023 12:00:36 INFO     [anuman.py:1428] dashboard rendered successfully
+27-04-2023 16:12:34 INFO     [anuman.py:50] A new session starts
+27-04-2023 16:12:41 INFO     [anuman.py:1384] in the dashboard
+27-04-2023 16:12:41 INFO     [anuman.py:1428] dashboard rendered successfully
+28-04-2023 09:51:15 INFO     [anuman.py:50] A new session starts
+28-04-2023 09:51:16 INFO     [anuman.py:1384] in the dashboard
+28-04-2023 09:51:16 INFO     [anuman.py:1428] dashboard rendered successfully
+28-04-2023 09:52:35 INFO     [anuman.py:548] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/another test settings.afefx has been selected
+28-04-2023 09:52:36 WARNING  [anuman.py:480] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+28-04-2023 09:52:36 WARNING  [anuman.py:480] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+28-04-2023 09:52:36 ERROR    [anuman.py:1288] set_values_to_UI_afefx: 'transform-variables'
+28-04-2023 09:52:36 INFO     [tsbatch.py:54] A new session starts
+28-04-2023 09:52:36 INFO     [tsbatch.py:407] indexed on: Time
+28-04-2023 09:52:36 INFO     [tsbatch.py:408] frequency: Quarterly (Start)
+28-04-2023 09:52:36 INFO     [tsbatch.py:410] variables: ['Time', 'Rprice', 'Real_GDP_Per_Capita', 'Per_capita_Volume', 'Trend', 'COVID', 'Actual Volume']
+28-04-2023 09:52:37 INFO     [tsbatch.py:415] frequency code: QS
+28-04-2023 09:52:37 INFO     [tsbatch.py:419] vars after removing index var: ['Rprice', 'Real_GDP_Per_Capita', 'Per_capita_Volume', 'Trend', 'COVID', 'Actual Volume']
+28-04-2023 09:52:37 ERROR    [tsbatch.py:472] prepare_dataset: "['Rprice', 'Real_GDP_Per_Capita'] not in index"
+06-06-2023 09:57:10 INFO     [anuman.py:50] A new session starts
+06-06-2023 09:57:19 INFO     [anuman.py:1383] in the dashboard
+06-06-2023 09:57:20 INFO     [anuman.py:1427] dashboard rendered successfully
+06-06-2023 10:00:08 INFO     [anuman.py:50] A new session starts
+06-06-2023 10:00:08 INFO     [anuman.py:1383] in the dashboard
+06-06-2023 10:00:08 INFO     [anuman.py:1427] dashboard rendered successfully
+06-06-2023 10:03:45 INFO     [anuman.py:50] A new session starts
+06-06-2023 10:03:45 INFO     [anuman.py:1383] in the dashboard
+06-06-2023 10:03:45 INFO     [anuman.py:1427] dashboard rendered successfully
+06-06-2023 10:04:46 INFO     [anuman.py:50] A new session starts
+06-06-2023 10:04:47 INFO     [anuman.py:1383] in the dashboard
+06-06-2023 10:04:47 INFO     [anuman.py:1427] dashboard rendered successfully
+06-06-2023 10:06:39 INFO     [anuman.py:50] A new session starts
+06-06-2023 10:06:40 INFO     [anuman.py:1383] in the dashboard
+06-06-2023 10:06:40 INFO     [anuman.py:1427] dashboard rendered successfully
+06-06-2023 10:13:58 INFO     [anuman.py:50] A new session starts
+06-06-2023 10:13:59 INFO     [anuman.py:1383] in the dashboard
+06-06-2023 10:13:59 INFO     [anuman.py:1427] dashboard rendered successfully
+06-06-2023 10:15:12 INFO     [anuman.py:50] A new session starts
+06-06-2023 10:15:13 INFO     [anuman.py:1383] in the dashboard
+06-06-2023 10:15:13 INFO     [anuman.py:1427] dashboard rendered successfully
+06-06-2023 10:18:31 INFO     [anuman.py:50] A new session starts
+06-06-2023 10:18:31 INFO     [anuman.py:1383] in the dashboard
+06-06-2023 10:18:31 INFO     [anuman.py:1427] dashboard rendered successfully
+06-06-2023 11:37:18 INFO     [anuman.py:51] A new session starts
+06-06-2023 11:37:20 INFO     [anuman.py:1406] in the dashboard
+06-06-2023 11:37:20 INFO     [anuman.py:1450] dashboard rendered successfully
+06-06-2023 11:37:20 ERROR    [anuman.py:77] Registration check has failed
+06-06-2023 11:39:07 INFO     [anuman.py:51] A new session starts
+06-06-2023 11:39:08 INFO     [anuman.py:1406] in the dashboard
+06-06-2023 11:39:08 INFO     [anuman.py:1450] dashboard rendered successfully
+06-06-2023 11:39:09 ERROR    [anuman.py:77] Registration check has failed
+06-06-2023 11:39:43 INFO     [anuman.py:51] A new session starts
+06-06-2023 11:39:43 INFO     [anuman.py:1406] in the dashboard
+06-06-2023 11:39:43 INFO     [anuman.py:1450] dashboard rendered successfully
+06-06-2023 11:39:44 ERROR    [anuman.py:77] Registration check has failed
+06-06-2023 12:26:17 INFO     [anuman.py:51] A new session starts
+06-06-2023 12:26:18 INFO     [anuman.py:1405] in the dashboard
+06-06-2023 12:26:18 INFO     [anuman.py:1449] dashboard rendered successfully
+06-06-2023 12:26:19 ERROR    [anuman.py:76] Registration check has failed
+06-06-2023 12:27:34 INFO     [anuman.py:51] A new session starts
+06-06-2023 12:27:35 INFO     [anuman.py:1405] in the dashboard
+06-06-2023 12:27:35 INFO     [anuman.py:1449] dashboard rendered successfully
+06-06-2023 12:27:35 ERROR    [anuman.py:76] Registration check has failed
+06-06-2023 12:39:57 INFO     [anuman.py:48] A new session starts
+06-06-2023 12:39:58 INFO     [anuman.py:1375] in the dashboard
+06-06-2023 12:39:58 INFO     [anuman.py:1419] dashboard rendered successfully
+06-06-2023 12:39:59 ERROR    [anuman.py:71] Registration check has failed
+06-06-2023 12:45:53 INFO     [anuman.py:48] A new session starts
+06-06-2023 12:45:53 INFO     [anuman.py:1376] in the dashboard
+06-06-2023 12:45:53 INFO     [anuman.py:1420] dashboard rendered successfully
+06-06-2023 12:45:53 INFO     [reg.py:65] xcode: False
+06-06-2023 12:45:53 INFO     [reg.py:66] expired: yes
+06-06-2023 12:45:53 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+06-06-2023 12:45:53 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+06-06-2023 12:45:53 INFO     [reg.py:69] expiry date False
+06-06-2023 12:45:53 INFO     [anuman.py:80] {'expired': 'yes', 'expiry_date': '2023-06-06', 'machine_name': 'IMPUFL0O51', 'hdd': '            WN90XFMR'}
+06-06-2023 12:45:54 ERROR    [anuman.py:71] Registration check has failed
+06-06-2023 12:47:43 INFO     [anuman.py:48] A new session starts
+06-06-2023 12:47:43 INFO     [anuman.py:1376] in the dashboard
+06-06-2023 12:47:43 INFO     [anuman.py:1420] dashboard rendered successfully
+06-06-2023 12:47:44 INFO     [reg.py:65] xcode: True
+06-06-2023 12:47:44 INFO     [reg.py:66] expired: no
+06-06-2023 12:47:44 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+06-06-2023 12:47:44 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+06-06-2023 12:47:44 INFO     [reg.py:69] expiry date True
+06-06-2023 12:47:44 INFO     [anuman.py:67] Registration check has passed
+06-06-2023 16:21:14 INFO     [anuman.py:48] A new session starts
+06-06-2023 16:21:15 INFO     [anuman.py:1376] in the dashboard
+06-06-2023 16:21:15 INFO     [anuman.py:1420] dashboard rendered successfully
+06-06-2023 16:21:15 INFO     [reg.py:65] xcode: True
+06-06-2023 16:21:15 INFO     [reg.py:66] expired: no
+06-06-2023 16:21:15 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+06-06-2023 16:21:16 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+06-06-2023 16:21:16 INFO     [reg.py:69] expiry date True
+06-06-2023 16:21:16 INFO     [anuman.py:67] Registration check has passed
+06-06-2023 18:43:39 INFO     [anuman.py:48] A new session starts
+06-06-2023 18:43:40 INFO     [anuman.py:1376] in the dashboard
+06-06-2023 18:43:40 INFO     [anuman.py:1420] dashboard rendered successfully
+06-06-2023 18:43:40 INFO     [reg.py:65] xcode: True
+06-06-2023 18:43:40 INFO     [reg.py:66] expired: no
+06-06-2023 18:43:40 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+06-06-2023 18:43:40 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+06-06-2023 18:43:40 INFO     [reg.py:69] expiry date True
+06-06-2023 18:43:40 INFO     [anuman.py:67] Registration check has passed
+06-06-2023 18:46:19 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/Training_Punjab.xlsx has been selected
+06-06-2023 18:50:47 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+06-06-2023 18:50:47 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+06-06-2023 18:50:47 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+06-06-2023 18:50:47 INFO     [anuman.py:1274] efefx_ui updated
+06-06-2023 18:50:47 INFO     [tsbatch.py:48] TSF Batch starts
+06-06-2023 18:50:47 INFO     [tsbatch.py:424] indexed on: Period
+06-06-2023 18:50:47 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+06-06-2023 18:50:47 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 18:50:47 INFO     [tsbatch.py:432] frequency code: MS
+06-06-2023 18:50:47 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 18:50:47 INFO     [tsbatch.py:462] auto-arima: False
+06-06-2023 18:50:47 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 18:50:47 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+06-06-2023 18:50:47 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+06-06-2023 18:50:47 INFO     [tsbatch.py:378] other-exog: ['COVID']
+06-06-2023 18:50:51 INFO     [anuman.py:1357] transformation-list: []
+06-06-2023 18:50:53 INFO     [tsbatch.py:48] TSF Batch starts
+06-06-2023 18:50:53 INFO     [tsbatch.py:424] indexed on: Period
+06-06-2023 18:50:53 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+06-06-2023 18:50:53 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 18:50:53 INFO     [tsbatch.py:432] frequency code: MS
+06-06-2023 18:50:53 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 18:50:53 INFO     [tsbatch.py:462] auto-arima: False
+06-06-2023 18:50:53 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 18:50:53 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+06-06-2023 18:50:53 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+06-06-2023 18:50:53 INFO     [tsbatch.py:378] other-exog: ['COVID']
+06-06-2023 18:50:57 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+06-06-2023 18:50:57 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+06-06-2023 18:50:57 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+06-06-2023 18:50:59 INFO     [tsbatch.py:712]  vol-price change:-0.018964217108768777
+06-06-2023 18:50:59 INFO     [tsbatch.py:724] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+06-06-2023 18:50:59 ERROR    [tsbatch.py:781] NPI-growth: [Errno 2] No such file or directory: 'C:/Anuman/NPI_Punjab.xlsx'
+06-06-2023 18:56:16 INFO     [anuman.py:48] A new session starts
+06-06-2023 18:56:17 INFO     [anuman.py:1376] in the dashboard
+06-06-2023 18:56:17 INFO     [anuman.py:1420] dashboard rendered successfully
+06-06-2023 18:56:18 INFO     [reg.py:65] xcode: True
+06-06-2023 18:56:18 INFO     [reg.py:66] expired: no
+06-06-2023 18:56:18 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+06-06-2023 18:56:18 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+06-06-2023 18:56:18 INFO     [reg.py:69] expiry date True
+06-06-2023 18:56:18 INFO     [anuman.py:67] Registration check has passed
+06-06-2023 18:56:32 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+06-06-2023 18:56:32 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+06-06-2023 18:56:32 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+06-06-2023 18:56:32 INFO     [anuman.py:1274] efefx_ui updated
+06-06-2023 18:56:32 INFO     [tsbatch.py:48] TSF Batch starts
+06-06-2023 18:56:32 INFO     [tsbatch.py:424] indexed on: Period
+06-06-2023 18:56:32 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+06-06-2023 18:56:32 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 18:56:32 INFO     [tsbatch.py:432] frequency code: MS
+06-06-2023 18:56:32 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 18:56:32 INFO     [tsbatch.py:462] auto-arima: False
+06-06-2023 18:56:32 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 18:56:32 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+06-06-2023 18:56:32 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+06-06-2023 18:56:32 INFO     [tsbatch.py:378] other-exog: ['COVID']
+06-06-2023 18:56:39 INFO     [anuman.py:1357] transformation-list: []
+06-06-2023 18:56:41 INFO     [tsbatch.py:48] TSF Batch starts
+06-06-2023 18:56:41 INFO     [tsbatch.py:424] indexed on: Period
+06-06-2023 18:56:41 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+06-06-2023 18:56:41 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 18:56:41 INFO     [tsbatch.py:432] frequency code: MS
+06-06-2023 18:56:41 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 18:56:41 INFO     [tsbatch.py:462] auto-arima: False
+06-06-2023 18:56:41 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 18:56:41 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+06-06-2023 18:56:41 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+06-06-2023 18:56:41 INFO     [tsbatch.py:378] other-exog: ['COVID']
+06-06-2023 18:56:43 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+06-06-2023 18:56:43 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+06-06-2023 18:56:43 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+06-06-2023 18:56:45 INFO     [tsbatch.py:712]  vol-price change:-0.018964217108768777
+06-06-2023 18:56:45 INFO     [tsbatch.py:724] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+06-06-2023 18:56:46 INFO     [tsbatch.py:712]  vol-price change:-0.01930906280389498
+06-06-2023 18:56:46 INFO     [tsbatch.py:724] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+06-06-2023 18:56:48 INFO     [tsbatch.py:712]  vol-price change:-0.03638320529994938
+06-06-2023 18:56:48 INFO     [tsbatch.py:724] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+06-06-2023 18:56:48 INFO     [tsbatch.py:712]  vol-price change:-0.037298253788721834
+06-06-2023 18:56:48 INFO     [tsbatch.py:724] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+06-06-2023 19:04:56 INFO     [anuman.py:48] A new session starts
+06-06-2023 19:04:57 INFO     [anuman.py:1376] in the dashboard
+06-06-2023 19:04:57 INFO     [anuman.py:1420] dashboard rendered successfully
+06-06-2023 19:04:57 INFO     [reg.py:65] xcode: True
+06-06-2023 19:04:57 INFO     [reg.py:66] expired: no
+06-06-2023 19:04:57 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+06-06-2023 19:04:57 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+06-06-2023 19:04:57 INFO     [reg.py:69] expiry date True
+06-06-2023 19:04:57 INFO     [anuman.py:67] Registration check has passed
+06-06-2023 19:05:16 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+06-06-2023 19:05:17 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+06-06-2023 19:05:17 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+06-06-2023 19:05:17 INFO     [anuman.py:1274] efefx_ui updated
+06-06-2023 19:05:17 INFO     [tsbatch.py:48] TSF Batch starts
+06-06-2023 19:05:17 INFO     [tsbatch.py:424] indexed on: Period
+06-06-2023 19:05:17 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+06-06-2023 19:05:17 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:05:17 INFO     [tsbatch.py:432] frequency code: MS
+06-06-2023 19:05:17 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:05:17 INFO     [tsbatch.py:462] auto-arima: False
+06-06-2023 19:05:17 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:05:17 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+06-06-2023 19:05:17 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+06-06-2023 19:05:17 INFO     [tsbatch.py:378] other-exog: ['COVID']
+06-06-2023 19:05:19 INFO     [anuman.py:1357] transformation-list: []
+06-06-2023 19:05:21 INFO     [tsbatch.py:48] TSF Batch starts
+06-06-2023 19:05:21 INFO     [tsbatch.py:424] indexed on: Period
+06-06-2023 19:05:21 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+06-06-2023 19:05:21 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:05:21 INFO     [tsbatch.py:432] frequency code: MS
+06-06-2023 19:05:21 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:05:21 INFO     [tsbatch.py:462] auto-arima: False
+06-06-2023 19:05:21 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:05:21 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+06-06-2023 19:05:21 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+06-06-2023 19:05:21 INFO     [tsbatch.py:378] other-exog: ['COVID']
+06-06-2023 19:05:29 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+06-06-2023 19:05:29 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+06-06-2023 19:05:29 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+06-06-2023 19:05:31 INFO     [tsbatch.py:712]  vol-price change:-0.018964217108768777
+06-06-2023 19:05:31 INFO     [tsbatch.py:724] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+06-06-2023 19:05:31 INFO     [tsbatch.py:712]  vol-price change:-0.01930906280389498
+06-06-2023 19:05:31 INFO     [tsbatch.py:724] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+06-06-2023 19:05:33 INFO     [tsbatch.py:712]  vol-price change:-0.03638320529994938
+06-06-2023 19:05:33 INFO     [tsbatch.py:724] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+06-06-2023 19:05:33 INFO     [tsbatch.py:712]  vol-price change:-0.037298253788721834
+06-06-2023 19:05:33 INFO     [tsbatch.py:724] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+06-06-2023 19:05:34 INFO     [tsbatch.py:215] output has been saved to TSF Training_Punjab.xlsx
+06-06-2023 19:13:03 INFO     [anuman.py:48] A new session starts
+06-06-2023 19:13:04 INFO     [anuman.py:1376] in the dashboard
+06-06-2023 19:13:04 INFO     [anuman.py:1420] dashboard rendered successfully
+06-06-2023 19:13:04 INFO     [reg.py:65] xcode: True
+06-06-2023 19:13:04 INFO     [reg.py:66] expired: no
+06-06-2023 19:13:04 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+06-06-2023 19:13:04 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+06-06-2023 19:13:04 INFO     [reg.py:69] expiry date True
+06-06-2023 19:13:04 INFO     [anuman.py:67] Registration check has passed
+06-06-2023 19:13:30 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+06-06-2023 19:13:30 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+06-06-2023 19:13:30 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+06-06-2023 19:13:30 INFO     [anuman.py:1274] efefx_ui updated
+06-06-2023 19:13:30 INFO     [tsbatch.py:48] TSF Batch starts
+06-06-2023 19:13:30 INFO     [tsbatch.py:424] indexed on: Period
+06-06-2023 19:13:30 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+06-06-2023 19:13:30 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:13:30 INFO     [tsbatch.py:432] frequency code: MS
+06-06-2023 19:13:30 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:13:30 INFO     [tsbatch.py:462] auto-arima: False
+06-06-2023 19:13:30 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:13:30 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+06-06-2023 19:13:30 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+06-06-2023 19:13:30 INFO     [tsbatch.py:378] other-exog: ['COVID']
+06-06-2023 19:13:33 INFO     [anuman.py:1357] transformation-list: []
+06-06-2023 19:13:37 INFO     [tsbatch.py:48] TSF Batch starts
+06-06-2023 19:13:37 INFO     [tsbatch.py:424] indexed on: Period
+06-06-2023 19:13:37 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+06-06-2023 19:13:37 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:13:37 INFO     [tsbatch.py:432] frequency code: MS
+06-06-2023 19:13:37 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:13:37 INFO     [tsbatch.py:462] auto-arima: False
+06-06-2023 19:13:37 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:13:37 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+06-06-2023 19:13:37 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+06-06-2023 19:13:37 INFO     [tsbatch.py:378] other-exog: ['COVID']
+06-06-2023 19:13:39 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+06-06-2023 19:13:39 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+06-06-2023 19:13:39 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+06-06-2023 19:13:41 INFO     [tsbatch.py:712]  vol-price change:-0.018964217108768777
+06-06-2023 19:13:41 INFO     [tsbatch.py:724] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+06-06-2023 19:13:41 INFO     [tsbatch.py:712]  vol-price change:-0.01930906280389498
+06-06-2023 19:13:41 INFO     [tsbatch.py:724] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+06-06-2023 19:13:43 INFO     [tsbatch.py:712]  vol-price change:-0.03638320529994938
+06-06-2023 19:13:43 INFO     [tsbatch.py:724] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+06-06-2023 19:13:44 INFO     [tsbatch.py:712]  vol-price change:-0.037298253788721834
+06-06-2023 19:13:44 INFO     [tsbatch.py:724] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+06-06-2023 19:16:17 INFO     [anuman.py:48] A new session starts
+06-06-2023 19:16:18 INFO     [anuman.py:1376] in the dashboard
+06-06-2023 19:16:18 INFO     [anuman.py:1420] dashboard rendered successfully
+06-06-2023 19:16:18 INFO     [reg.py:65] xcode: True
+06-06-2023 19:16:18 INFO     [reg.py:66] expired: no
+06-06-2023 19:16:18 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+06-06-2023 19:16:18 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+06-06-2023 19:16:18 INFO     [reg.py:69] expiry date True
+06-06-2023 19:16:18 INFO     [anuman.py:67] Registration check has passed
+06-06-2023 19:16:35 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+06-06-2023 19:16:35 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+06-06-2023 19:16:35 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+06-06-2023 19:16:36 INFO     [anuman.py:1274] efefx_ui updated
+06-06-2023 19:16:36 INFO     [tsbatch.py:48] TSF Batch starts
+06-06-2023 19:16:36 INFO     [tsbatch.py:424] indexed on: Period
+06-06-2023 19:16:36 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+06-06-2023 19:16:36 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:16:36 INFO     [tsbatch.py:432] frequency code: MS
+06-06-2023 19:16:36 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:16:36 INFO     [tsbatch.py:462] auto-arima: False
+06-06-2023 19:16:36 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:16:36 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+06-06-2023 19:16:36 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+06-06-2023 19:16:36 INFO     [tsbatch.py:378] other-exog: ['COVID']
+06-06-2023 19:16:37 INFO     [anuman.py:1357] transformation-list: []
+06-06-2023 19:16:39 INFO     [tsbatch.py:48] TSF Batch starts
+06-06-2023 19:16:39 INFO     [tsbatch.py:424] indexed on: Period
+06-06-2023 19:16:39 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+06-06-2023 19:16:39 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:16:39 INFO     [tsbatch.py:432] frequency code: MS
+06-06-2023 19:16:39 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:16:39 INFO     [tsbatch.py:462] auto-arima: False
+06-06-2023 19:16:39 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:16:39 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+06-06-2023 19:16:39 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+06-06-2023 19:16:39 INFO     [tsbatch.py:378] other-exog: ['COVID']
+06-06-2023 19:16:40 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+06-06-2023 19:16:40 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+06-06-2023 19:16:40 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+06-06-2023 19:16:42 INFO     [tsbatch.py:712]  vol-price change:-0.018964217108768777
+06-06-2023 19:16:42 INFO     [tsbatch.py:724] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+06-06-2023 19:16:43 INFO     [tsbatch.py:712]  vol-price change:-0.01930906280389498
+06-06-2023 19:16:43 INFO     [tsbatch.py:724] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+06-06-2023 19:16:45 INFO     [tsbatch.py:712]  vol-price change:-0.03638320529994938
+06-06-2023 19:16:45 INFO     [tsbatch.py:724] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+06-06-2023 19:16:45 INFO     [tsbatch.py:712]  vol-price change:-0.037298253788721834
+06-06-2023 19:16:45 INFO     [tsbatch.py:724] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+06-06-2023 19:16:45 INFO     [tsbatch.py:215] output has been saved to TSF Training_Punjab.xlsx
+06-06-2023 19:19:44 INFO     [anuman.py:48] A new session starts
+06-06-2023 19:19:45 INFO     [anuman.py:1376] in the dashboard
+06-06-2023 19:19:45 INFO     [anuman.py:1420] dashboard rendered successfully
+06-06-2023 19:19:45 INFO     [reg.py:65] xcode: True
+06-06-2023 19:19:45 INFO     [reg.py:66] expired: no
+06-06-2023 19:19:45 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+06-06-2023 19:19:45 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+06-06-2023 19:19:45 INFO     [reg.py:69] expiry date True
+06-06-2023 19:19:45 INFO     [anuman.py:67] Registration check has passed
+06-06-2023 19:19:57 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+06-06-2023 19:19:58 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+06-06-2023 19:19:58 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+06-06-2023 19:19:58 INFO     [anuman.py:1274] efefx_ui updated
+06-06-2023 19:19:58 INFO     [tsbatch.py:48] TSF Batch starts
+06-06-2023 19:19:58 INFO     [tsbatch.py:424] indexed on: Period
+06-06-2023 19:19:58 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+06-06-2023 19:19:58 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:19:58 INFO     [tsbatch.py:432] frequency code: MS
+06-06-2023 19:19:58 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:19:58 INFO     [tsbatch.py:462] auto-arima: False
+06-06-2023 19:19:58 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:19:58 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+06-06-2023 19:19:58 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+06-06-2023 19:19:58 INFO     [tsbatch.py:378] other-exog: ['COVID']
+06-06-2023 19:19:59 INFO     [anuman.py:1357] transformation-list: []
+06-06-2023 19:20:00 INFO     [tsbatch.py:48] TSF Batch starts
+06-06-2023 19:20:00 INFO     [tsbatch.py:424] indexed on: Period
+06-06-2023 19:20:00 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+06-06-2023 19:20:00 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:20:00 INFO     [tsbatch.py:432] frequency code: MS
+06-06-2023 19:20:00 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:20:00 INFO     [tsbatch.py:462] auto-arima: False
+06-06-2023 19:20:00 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+06-06-2023 19:20:00 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+06-06-2023 19:20:00 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+06-06-2023 19:20:00 INFO     [tsbatch.py:378] other-exog: ['COVID']
+06-06-2023 19:20:02 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+06-06-2023 19:20:02 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+06-06-2023 19:20:02 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+06-06-2023 19:20:04 INFO     [tsbatch.py:712]  vol-price change:-0.018964217108768777
+06-06-2023 19:20:04 INFO     [tsbatch.py:724] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+06-06-2023 19:20:04 INFO     [tsbatch.py:712]  vol-price change:-0.01930906280389498
+06-06-2023 19:20:04 INFO     [tsbatch.py:724] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+06-06-2023 19:20:06 INFO     [tsbatch.py:712]  vol-price change:-0.03638320529994938
+06-06-2023 19:20:06 INFO     [tsbatch.py:724] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+06-06-2023 19:20:06 INFO     [tsbatch.py:712]  vol-price change:-0.037298253788721834
+06-06-2023 19:20:06 INFO     [tsbatch.py:724] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+06-06-2023 19:20:06 INFO     [tsbatch.py:215] output has been saved to TSF Training_Punjab.xlsx
+06-06-2023 19:23:10 INFO     [anuman.py:48] A new session starts
+06-06-2023 19:23:11 INFO     [anuman.py:1376] in the dashboard
+06-06-2023 19:23:11 INFO     [anuman.py:1420] dashboard rendered successfully
+06-06-2023 19:23:11 INFO     [reg.py:65] xcode: True
+06-06-2023 19:23:11 INFO     [reg.py:66] expired: no
+06-06-2023 19:23:11 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+06-06-2023 19:23:11 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+06-06-2023 19:23:11 INFO     [reg.py:69] expiry date True
+06-06-2023 19:23:11 INFO     [anuman.py:67] Registration check has passed
+07-06-2023 10:04:11 INFO     [anuman.py:48] A new session starts
+07-06-2023 10:04:24 INFO     [anuman.py:1376] in the dashboard
+07-06-2023 10:04:24 INFO     [anuman.py:1420] dashboard rendered successfully
+07-06-2023 10:04:25 INFO     [reg.py:65] xcode: True
+07-06-2023 10:04:25 INFO     [reg.py:66] expired: no
+07-06-2023 10:04:25 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+07-06-2023 10:04:25 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+07-06-2023 10:04:25 INFO     [reg.py:69] expiry date True
+07-06-2023 10:04:25 INFO     [anuman.py:67] Registration check has passed
+07-06-2023 10:04:40 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+07-06-2023 10:04:41 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 10:04:41 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 10:04:41 INFO     [anuman.py:1274] efefx_ui updated
+07-06-2023 10:04:41 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 10:04:41 INFO     [tsbatch.py:424] indexed on: Period
+07-06-2023 10:04:41 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+07-06-2023 10:04:41 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:04:41 INFO     [tsbatch.py:432] frequency code: MS
+07-06-2023 10:04:41 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:04:41 INFO     [tsbatch.py:462] auto-arima: False
+07-06-2023 10:04:41 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:04:41 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+07-06-2023 10:04:41 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 10:04:41 INFO     [tsbatch.py:378] other-exog: ['COVID']
+07-06-2023 10:04:43 INFO     [anuman.py:1357] transformation-list: []
+07-06-2023 10:04:45 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 10:04:45 INFO     [tsbatch.py:424] indexed on: Period
+07-06-2023 10:04:45 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+07-06-2023 10:04:45 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:04:45 INFO     [tsbatch.py:432] frequency code: MS
+07-06-2023 10:04:45 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:04:45 INFO     [tsbatch.py:462] auto-arima: False
+07-06-2023 10:04:45 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:04:45 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+07-06-2023 10:04:45 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 10:04:45 INFO     [tsbatch.py:378] other-exog: ['COVID']
+07-06-2023 10:04:47 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+07-06-2023 10:04:48 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+07-06-2023 10:04:48 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+07-06-2023 10:04:50 INFO     [tsbatch.py:712]  vol-price change:-0.018964217108768777
+07-06-2023 10:04:50 INFO     [tsbatch.py:724] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+07-06-2023 10:04:51 ERROR    [tsbatch.py:240] Standardized_coefficients: 'SARIMAXResultsWrapper' object is not subscriptable
+07-06-2023 10:04:51 INFO     [tsbatch.py:712]  vol-price change:-0.01930906280389498
+07-06-2023 10:04:51 INFO     [tsbatch.py:724] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+07-06-2023 10:04:51 ERROR    [tsbatch.py:240] Standardized_coefficients: 'SARIMAXResultsWrapper' object is not subscriptable
+07-06-2023 10:04:53 INFO     [tsbatch.py:712]  vol-price change:-0.03638320529994938
+07-06-2023 10:04:53 INFO     [tsbatch.py:724] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+07-06-2023 10:04:53 ERROR    [tsbatch.py:240] Standardized_coefficients: 'SARIMAXResultsWrapper' object is not subscriptable
+07-06-2023 10:04:53 INFO     [tsbatch.py:712]  vol-price change:-0.037298253788721834
+07-06-2023 10:04:53 INFO     [tsbatch.py:724] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+07-06-2023 10:04:53 ERROR    [tsbatch.py:240] Standardized_coefficients: 'SARIMAXResultsWrapper' object is not subscriptable
+07-06-2023 10:05:13 INFO     [anuman.py:48] A new session starts
+07-06-2023 10:05:14 INFO     [anuman.py:1376] in the dashboard
+07-06-2023 10:05:14 INFO     [anuman.py:1420] dashboard rendered successfully
+07-06-2023 10:05:14 INFO     [reg.py:65] xcode: True
+07-06-2023 10:05:14 INFO     [reg.py:66] expired: no
+07-06-2023 10:05:14 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+07-06-2023 10:05:14 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+07-06-2023 10:05:14 INFO     [reg.py:69] expiry date True
+07-06-2023 10:05:14 INFO     [anuman.py:67] Registration check has passed
+07-06-2023 10:05:34 INFO     [anuman.py:48] A new session starts
+07-06-2023 10:05:35 INFO     [anuman.py:1376] in the dashboard
+07-06-2023 10:05:35 INFO     [anuman.py:1420] dashboard rendered successfully
+07-06-2023 10:05:35 INFO     [reg.py:65] xcode: True
+07-06-2023 10:05:35 INFO     [reg.py:66] expired: no
+07-06-2023 10:05:35 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+07-06-2023 10:05:35 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+07-06-2023 10:05:35 INFO     [reg.py:69] expiry date True
+07-06-2023 10:05:35 INFO     [anuman.py:67] Registration check has passed
+07-06-2023 10:05:46 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+07-06-2023 10:05:46 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 10:05:46 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 10:05:46 INFO     [anuman.py:1274] efefx_ui updated
+07-06-2023 10:05:46 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 10:05:46 INFO     [tsbatch.py:424] indexed on: Period
+07-06-2023 10:05:46 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+07-06-2023 10:05:46 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:05:46 INFO     [tsbatch.py:432] frequency code: MS
+07-06-2023 10:05:46 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:05:46 INFO     [tsbatch.py:462] auto-arima: False
+07-06-2023 10:05:46 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:05:46 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+07-06-2023 10:05:46 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 10:05:46 INFO     [tsbatch.py:378] other-exog: ['COVID']
+07-06-2023 10:05:47 INFO     [anuman.py:1357] transformation-list: []
+07-06-2023 10:05:49 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 10:05:49 INFO     [tsbatch.py:424] indexed on: Period
+07-06-2023 10:05:49 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+07-06-2023 10:05:49 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:05:49 INFO     [tsbatch.py:432] frequency code: MS
+07-06-2023 10:05:49 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:05:49 INFO     [tsbatch.py:462] auto-arima: False
+07-06-2023 10:05:49 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:05:49 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+07-06-2023 10:05:49 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 10:05:49 INFO     [tsbatch.py:378] other-exog: ['COVID']
+07-06-2023 10:05:50 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+07-06-2023 10:05:50 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+07-06-2023 10:05:50 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+07-06-2023 10:05:52 INFO     [tsbatch.py:712]  vol-price change:-0.018964217108768777
+07-06-2023 10:05:52 INFO     [tsbatch.py:724] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+07-06-2023 10:05:52 ERROR    [tsbatch.py:240] Standardized_coefficients: 'SARIMAXResultsWrapper' object is not subscriptable
+07-06-2023 10:05:52 INFO     [tsbatch.py:712]  vol-price change:-0.01930906280389498
+07-06-2023 10:05:52 INFO     [tsbatch.py:724] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+07-06-2023 10:05:52 ERROR    [tsbatch.py:240] Standardized_coefficients: 'SARIMAXResultsWrapper' object is not subscriptable
+07-06-2023 10:05:54 INFO     [tsbatch.py:712]  vol-price change:-0.03638320529994938
+07-06-2023 10:05:54 INFO     [tsbatch.py:724] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+07-06-2023 10:05:54 ERROR    [tsbatch.py:240] Standardized_coefficients: 'SARIMAXResultsWrapper' object is not subscriptable
+07-06-2023 10:05:54 INFO     [tsbatch.py:712]  vol-price change:-0.037298253788721834
+07-06-2023 10:05:54 INFO     [tsbatch.py:724] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+07-06-2023 10:05:54 ERROR    [tsbatch.py:240] Standardized_coefficients: 'SARIMAXResultsWrapper' object is not subscriptable
+07-06-2023 10:10:04 INFO     [anuman.py:48] A new session starts
+07-06-2023 10:10:05 INFO     [anuman.py:1376] in the dashboard
+07-06-2023 10:10:05 INFO     [anuman.py:1420] dashboard rendered successfully
+07-06-2023 10:10:05 INFO     [reg.py:65] xcode: True
+07-06-2023 10:10:05 INFO     [reg.py:66] expired: no
+07-06-2023 10:10:05 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+07-06-2023 10:10:05 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+07-06-2023 10:10:05 INFO     [reg.py:69] expiry date True
+07-06-2023 10:10:05 INFO     [anuman.py:67] Registration check has passed
+07-06-2023 10:10:15 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+07-06-2023 10:10:15 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 10:10:15 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 10:10:15 INFO     [anuman.py:1274] efefx_ui updated
+07-06-2023 10:10:15 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 10:10:15 INFO     [tsbatch.py:424] indexed on: Period
+07-06-2023 10:10:15 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+07-06-2023 10:10:15 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:10:15 INFO     [tsbatch.py:432] frequency code: MS
+07-06-2023 10:10:15 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:10:15 INFO     [tsbatch.py:462] auto-arima: False
+07-06-2023 10:10:15 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:10:15 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+07-06-2023 10:10:15 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 10:10:15 INFO     [tsbatch.py:378] other-exog: ['COVID']
+07-06-2023 10:10:17 INFO     [anuman.py:1357] transformation-list: []
+07-06-2023 10:10:18 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 10:10:19 INFO     [tsbatch.py:424] indexed on: Period
+07-06-2023 10:10:19 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+07-06-2023 10:10:19 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:10:19 INFO     [tsbatch.py:432] frequency code: MS
+07-06-2023 10:10:19 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:10:19 INFO     [tsbatch.py:462] auto-arima: False
+07-06-2023 10:10:19 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:10:19 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+07-06-2023 10:10:19 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 10:10:19 INFO     [tsbatch.py:378] other-exog: ['COVID']
+07-06-2023 10:10:20 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+07-06-2023 10:10:20 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+07-06-2023 10:10:20 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+07-06-2023 10:10:22 INFO     [tsbatch.py:712]  vol-price change:-0.018964217108768777
+07-06-2023 10:10:22 INFO     [tsbatch.py:724] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+07-06-2023 10:10:22 INFO     [tsbatch.py:712]  vol-price change:-0.01930906280389498
+07-06-2023 10:10:22 INFO     [tsbatch.py:724] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+07-06-2023 10:10:24 INFO     [tsbatch.py:712]  vol-price change:-0.03638320529994938
+07-06-2023 10:10:24 INFO     [tsbatch.py:724] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+07-06-2023 10:10:24 INFO     [tsbatch.py:712]  vol-price change:-0.037298253788721834
+07-06-2023 10:10:24 INFO     [tsbatch.py:724] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+07-06-2023 10:10:24 INFO     [tsbatch.py:215] output has been saved to TSF Training_Punjab.xlsx
+07-06-2023 10:12:51 INFO     [anuman.py:48] A new session starts
+07-06-2023 10:12:52 INFO     [anuman.py:1376] in the dashboard
+07-06-2023 10:12:52 INFO     [anuman.py:1420] dashboard rendered successfully
+07-06-2023 10:12:52 INFO     [reg.py:65] xcode: True
+07-06-2023 10:12:52 INFO     [reg.py:66] expired: no
+07-06-2023 10:12:52 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+07-06-2023 10:12:52 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+07-06-2023 10:12:52 INFO     [reg.py:69] expiry date True
+07-06-2023 10:12:52 INFO     [anuman.py:67] Registration check has passed
+07-06-2023 10:13:01 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+07-06-2023 10:13:01 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 10:13:01 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 10:13:01 INFO     [anuman.py:1274] efefx_ui updated
+07-06-2023 10:13:01 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 10:13:01 INFO     [tsbatch.py:424] indexed on: Period
+07-06-2023 10:13:01 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+07-06-2023 10:13:01 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:13:01 INFO     [tsbatch.py:432] frequency code: MS
+07-06-2023 10:13:01 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:13:01 INFO     [tsbatch.py:462] auto-arima: False
+07-06-2023 10:13:01 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:13:01 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+07-06-2023 10:13:01 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 10:13:01 INFO     [tsbatch.py:378] other-exog: ['COVID']
+07-06-2023 10:13:03 INFO     [anuman.py:1357] transformation-list: []
+07-06-2023 10:13:04 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 10:13:04 INFO     [tsbatch.py:424] indexed on: Period
+07-06-2023 10:13:04 INFO     [tsbatch.py:425] frequency: Monthly (Month-start)
+07-06-2023 10:13:04 INFO     [tsbatch.py:427] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:13:04 INFO     [tsbatch.py:432] frequency code: MS
+07-06-2023 10:13:04 INFO     [tsbatch.py:436] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:13:04 INFO     [tsbatch.py:462] auto-arima: False
+07-06-2023 10:13:04 INFO     [tsbatch.py:369] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:13:04 INFO     [tsbatch.py:370] dep var: Per_capita_vol
+07-06-2023 10:13:04 INFO     [tsbatch.py:372] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 10:13:04 INFO     [tsbatch.py:378] other-exog: ['COVID']
+07-06-2023 10:13:05 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+07-06-2023 10:13:05 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+07-06-2023 10:13:05 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+07-06-2023 10:13:07 INFO     [tsbatch.py:712]  vol-price change:-0.018964217108768777
+07-06-2023 10:13:07 INFO     [tsbatch.py:724] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+07-06-2023 10:13:07 INFO     [tsbatch.py:712]  vol-price change:-0.01930906280389498
+07-06-2023 10:13:07 INFO     [tsbatch.py:724] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+07-06-2023 10:13:09 INFO     [tsbatch.py:712]  vol-price change:-0.03638320529994938
+07-06-2023 10:13:09 INFO     [tsbatch.py:724] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+07-06-2023 10:13:09 INFO     [tsbatch.py:712]  vol-price change:-0.037298253788721834
+07-06-2023 10:13:09 INFO     [tsbatch.py:724] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+07-06-2023 10:13:10 INFO     [tsbatch.py:215] output has been saved to TSF Training_Punjab.xlsx
+07-06-2023 10:15:20 INFO     [anuman.py:48] A new session starts
+07-06-2023 10:15:21 INFO     [anuman.py:1376] in the dashboard
+07-06-2023 10:15:21 INFO     [anuman.py:1420] dashboard rendered successfully
+07-06-2023 10:15:21 INFO     [reg.py:65] xcode: True
+07-06-2023 10:15:21 INFO     [reg.py:66] expired: no
+07-06-2023 10:15:21 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+07-06-2023 10:15:21 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+07-06-2023 10:15:21 INFO     [reg.py:69] expiry date True
+07-06-2023 10:15:21 INFO     [anuman.py:67] Registration check has passed
+07-06-2023 10:15:31 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+07-06-2023 10:15:32 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 10:15:32 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 10:15:32 INFO     [anuman.py:1274] efefx_ui updated
+07-06-2023 10:15:32 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 10:15:32 INFO     [tsbatch.py:425] indexed on: Period
+07-06-2023 10:15:32 INFO     [tsbatch.py:426] frequency: Monthly (Month-start)
+07-06-2023 10:15:32 INFO     [tsbatch.py:428] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:15:32 INFO     [tsbatch.py:433] frequency code: MS
+07-06-2023 10:15:32 INFO     [tsbatch.py:437] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:15:32 INFO     [tsbatch.py:463] auto-arima: False
+07-06-2023 10:15:32 INFO     [tsbatch.py:370] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:15:32 INFO     [tsbatch.py:371] dep var: Per_capita_vol
+07-06-2023 10:15:32 INFO     [tsbatch.py:373] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 10:15:32 INFO     [tsbatch.py:379] other-exog: ['COVID']
+07-06-2023 10:15:33 INFO     [anuman.py:1357] transformation-list: []
+07-06-2023 10:15:34 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 10:15:34 INFO     [tsbatch.py:425] indexed on: Period
+07-06-2023 10:15:34 INFO     [tsbatch.py:426] frequency: Monthly (Month-start)
+07-06-2023 10:15:34 INFO     [tsbatch.py:428] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:15:34 INFO     [tsbatch.py:433] frequency code: MS
+07-06-2023 10:15:34 INFO     [tsbatch.py:437] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:15:34 INFO     [tsbatch.py:463] auto-arima: False
+07-06-2023 10:15:34 INFO     [tsbatch.py:370] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:15:34 INFO     [tsbatch.py:371] dep var: Per_capita_vol
+07-06-2023 10:15:34 INFO     [tsbatch.py:373] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 10:15:34 INFO     [tsbatch.py:379] other-exog: ['COVID']
+07-06-2023 10:15:36 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+07-06-2023 10:15:36 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+07-06-2023 10:15:36 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+07-06-2023 10:15:37 INFO     [tsbatch.py:713]  vol-price change:-0.018964217108768777
+07-06-2023 10:15:37 INFO     [tsbatch.py:725] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+07-06-2023 10:15:38 INFO     [tsbatch.py:713]  vol-price change:-0.01930906280389498
+07-06-2023 10:15:38 INFO     [tsbatch.py:725] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+07-06-2023 10:15:40 INFO     [tsbatch.py:713]  vol-price change:-0.03638320529994938
+07-06-2023 10:15:40 INFO     [tsbatch.py:725] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+07-06-2023 10:15:40 INFO     [tsbatch.py:713]  vol-price change:-0.037298253788721834
+07-06-2023 10:15:40 INFO     [tsbatch.py:725] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+07-06-2023 10:15:40 INFO     [tsbatch.py:215] output has been saved to TSF Training_Punjab.xlsx
+07-06-2023 10:17:48 INFO     [anuman.py:48] A new session starts
+07-06-2023 10:17:49 INFO     [anuman.py:1376] in the dashboard
+07-06-2023 10:17:49 INFO     [anuman.py:1420] dashboard rendered successfully
+07-06-2023 10:17:49 INFO     [reg.py:65] xcode: True
+07-06-2023 10:17:49 INFO     [reg.py:66] expired: no
+07-06-2023 10:17:49 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+07-06-2023 10:17:49 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+07-06-2023 10:17:49 INFO     [reg.py:69] expiry date True
+07-06-2023 10:17:49 INFO     [anuman.py:67] Registration check has passed
+07-06-2023 10:17:57 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+07-06-2023 10:17:58 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 10:17:58 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 10:17:58 INFO     [anuman.py:1274] efefx_ui updated
+07-06-2023 10:17:58 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 10:17:58 INFO     [tsbatch.py:425] indexed on: Period
+07-06-2023 10:17:58 INFO     [tsbatch.py:426] frequency: Monthly (Month-start)
+07-06-2023 10:17:58 INFO     [tsbatch.py:428] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:17:58 INFO     [tsbatch.py:433] frequency code: MS
+07-06-2023 10:17:58 INFO     [tsbatch.py:437] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:17:58 INFO     [tsbatch.py:463] auto-arima: False
+07-06-2023 10:17:58 INFO     [tsbatch.py:370] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:17:58 INFO     [tsbatch.py:371] dep var: Per_capita_vol
+07-06-2023 10:17:58 INFO     [tsbatch.py:373] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 10:17:58 INFO     [tsbatch.py:379] other-exog: ['COVID']
+07-06-2023 10:17:59 INFO     [anuman.py:1357] transformation-list: []
+07-06-2023 10:18:01 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 10:18:01 INFO     [tsbatch.py:425] indexed on: Period
+07-06-2023 10:18:01 INFO     [tsbatch.py:426] frequency: Monthly (Month-start)
+07-06-2023 10:18:01 INFO     [tsbatch.py:428] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:18:01 INFO     [tsbatch.py:433] frequency code: MS
+07-06-2023 10:18:01 INFO     [tsbatch.py:437] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:18:01 INFO     [tsbatch.py:463] auto-arima: False
+07-06-2023 10:18:01 INFO     [tsbatch.py:370] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:18:01 INFO     [tsbatch.py:371] dep var: Per_capita_vol
+07-06-2023 10:18:01 INFO     [tsbatch.py:373] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 10:18:01 INFO     [tsbatch.py:379] other-exog: ['COVID']
+07-06-2023 10:18:03 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+07-06-2023 10:18:03 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+07-06-2023 10:18:03 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+07-06-2023 10:18:05 INFO     [tsbatch.py:713]  vol-price change:-0.018964217108768777
+07-06-2023 10:18:05 INFO     [tsbatch.py:725] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+07-06-2023 10:18:05 INFO     [tsbatch.py:713]  vol-price change:-0.01930906280389498
+07-06-2023 10:18:05 INFO     [tsbatch.py:725] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+07-06-2023 10:18:07 INFO     [tsbatch.py:713]  vol-price change:-0.03638320529994938
+07-06-2023 10:18:07 INFO     [tsbatch.py:725] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+07-06-2023 10:18:07 INFO     [tsbatch.py:713]  vol-price change:-0.037298253788721834
+07-06-2023 10:18:07 INFO     [tsbatch.py:725] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+07-06-2023 10:18:07 INFO     [tsbatch.py:215] output has been saved to TSF Training_Punjab.xlsx
+07-06-2023 10:20:10 INFO     [anuman.py:48] A new session starts
+07-06-2023 10:20:10 INFO     [anuman.py:1376] in the dashboard
+07-06-2023 10:20:10 INFO     [anuman.py:1420] dashboard rendered successfully
+07-06-2023 10:20:11 INFO     [reg.py:65] xcode: True
+07-06-2023 10:20:11 INFO     [reg.py:66] expired: no
+07-06-2023 10:20:11 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+07-06-2023 10:20:11 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+07-06-2023 10:20:11 INFO     [reg.py:69] expiry date True
+07-06-2023 10:20:11 INFO     [anuman.py:67] Registration check has passed
+07-06-2023 10:20:22 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+07-06-2023 10:20:22 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 10:20:22 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 10:20:22 INFO     [anuman.py:1274] efefx_ui updated
+07-06-2023 10:20:22 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 10:20:22 INFO     [tsbatch.py:425] indexed on: Period
+07-06-2023 10:20:22 INFO     [tsbatch.py:426] frequency: Monthly (Month-start)
+07-06-2023 10:20:22 INFO     [tsbatch.py:428] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:20:22 INFO     [tsbatch.py:433] frequency code: MS
+07-06-2023 10:20:22 INFO     [tsbatch.py:437] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:20:22 INFO     [tsbatch.py:463] auto-arima: False
+07-06-2023 10:20:22 INFO     [tsbatch.py:370] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:20:22 INFO     [tsbatch.py:371] dep var: Per_capita_vol
+07-06-2023 10:20:22 INFO     [tsbatch.py:373] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 10:20:22 INFO     [tsbatch.py:379] other-exog: ['COVID']
+07-06-2023 10:20:23 INFO     [anuman.py:1357] transformation-list: []
+07-06-2023 10:20:25 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 10:20:25 INFO     [tsbatch.py:425] indexed on: Period
+07-06-2023 10:20:25 INFO     [tsbatch.py:426] frequency: Monthly (Month-start)
+07-06-2023 10:20:25 INFO     [tsbatch.py:428] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:20:25 INFO     [tsbatch.py:433] frequency code: MS
+07-06-2023 10:20:25 INFO     [tsbatch.py:437] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:20:25 INFO     [tsbatch.py:463] auto-arima: False
+07-06-2023 10:20:25 INFO     [tsbatch.py:370] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:20:25 INFO     [tsbatch.py:371] dep var: Per_capita_vol
+07-06-2023 10:20:25 INFO     [tsbatch.py:373] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 10:20:25 INFO     [tsbatch.py:379] other-exog: ['COVID']
+07-06-2023 10:20:26 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+07-06-2023 10:20:26 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+07-06-2023 10:20:26 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+07-06-2023 10:20:28 INFO     [tsbatch.py:713]  vol-price change:-0.018964217108768777
+07-06-2023 10:20:28 INFO     [tsbatch.py:725] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+07-06-2023 10:20:28 ERROR    [tsbatch.py:241] Standardized_coefficients: If using all scalar values, you must pass an index
+07-06-2023 10:20:28 INFO     [tsbatch.py:713]  vol-price change:-0.01930906280389498
+07-06-2023 10:20:28 INFO     [tsbatch.py:725] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+07-06-2023 10:20:28 ERROR    [tsbatch.py:241] Standardized_coefficients: If using all scalar values, you must pass an index
+07-06-2023 10:20:30 INFO     [tsbatch.py:713]  vol-price change:-0.03638320529994938
+07-06-2023 10:20:30 INFO     [tsbatch.py:725] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+07-06-2023 10:20:30 ERROR    [tsbatch.py:241] Standardized_coefficients: If using all scalar values, you must pass an index
+07-06-2023 10:20:30 INFO     [tsbatch.py:713]  vol-price change:-0.037298253788721834
+07-06-2023 10:20:30 INFO     [tsbatch.py:725] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+07-06-2023 10:20:30 ERROR    [tsbatch.py:241] Standardized_coefficients: If using all scalar values, you must pass an index
+07-06-2023 10:25:11 INFO     [anuman.py:48] A new session starts
+07-06-2023 10:25:11 INFO     [anuman.py:1376] in the dashboard
+07-06-2023 10:25:11 INFO     [anuman.py:1420] dashboard rendered successfully
+07-06-2023 10:25:11 INFO     [reg.py:65] xcode: True
+07-06-2023 10:25:11 INFO     [reg.py:66] expired: no
+07-06-2023 10:25:11 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+07-06-2023 10:25:12 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+07-06-2023 10:25:12 INFO     [reg.py:69] expiry date True
+07-06-2023 10:25:12 INFO     [anuman.py:67] Registration check has passed
+07-06-2023 10:25:26 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+07-06-2023 10:25:26 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 10:25:26 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 10:25:26 INFO     [anuman.py:1274] efefx_ui updated
+07-06-2023 10:25:26 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 10:25:26 INFO     [tsbatch.py:426] indexed on: Period
+07-06-2023 10:25:26 INFO     [tsbatch.py:427] frequency: Monthly (Month-start)
+07-06-2023 10:25:26 INFO     [tsbatch.py:429] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:25:26 INFO     [tsbatch.py:434] frequency code: MS
+07-06-2023 10:25:26 INFO     [tsbatch.py:438] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:25:26 INFO     [tsbatch.py:464] auto-arima: False
+07-06-2023 10:25:26 INFO     [tsbatch.py:371] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:25:26 INFO     [tsbatch.py:372] dep var: Per_capita_vol
+07-06-2023 10:25:26 INFO     [tsbatch.py:374] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 10:25:26 INFO     [tsbatch.py:380] other-exog: ['COVID']
+07-06-2023 10:25:27 INFO     [anuman.py:1357] transformation-list: []
+07-06-2023 10:25:28 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 10:25:28 INFO     [tsbatch.py:426] indexed on: Period
+07-06-2023 10:25:28 INFO     [tsbatch.py:427] frequency: Monthly (Month-start)
+07-06-2023 10:25:28 INFO     [tsbatch.py:429] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:25:28 INFO     [tsbatch.py:434] frequency code: MS
+07-06-2023 10:25:28 INFO     [tsbatch.py:438] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:25:28 INFO     [tsbatch.py:464] auto-arima: False
+07-06-2023 10:25:28 INFO     [tsbatch.py:371] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:25:28 INFO     [tsbatch.py:372] dep var: Per_capita_vol
+07-06-2023 10:25:28 INFO     [tsbatch.py:374] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 10:25:28 INFO     [tsbatch.py:380] other-exog: ['COVID']
+07-06-2023 10:25:30 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+07-06-2023 10:25:30 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+07-06-2023 10:25:30 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+07-06-2023 10:25:32 INFO     [tsbatch.py:714]  vol-price change:-0.018964217108768777
+07-06-2023 10:25:32 INFO     [tsbatch.py:726] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+07-06-2023 10:25:32 INFO     [tsbatch.py:225] mult:                  0  Per_capita_vol
+intercept      NaN             NaN
+GDP_PER_CAPITA NaN             NaN
+RPRICE         NaN             NaN
+sigma2         NaN             NaN
+07-06-2023 10:25:32 ERROR    [tsbatch.py:242] Standardized_coefficients: If using all scalar values, you must pass an index
+07-06-2023 10:25:32 INFO     [tsbatch.py:714]  vol-price change:-0.01930906280389498
+07-06-2023 10:25:32 INFO     [tsbatch.py:726] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+07-06-2023 10:25:32 INFO     [tsbatch.py:225] mult:                  0  Per_capita_vol
+intercept      NaN             NaN
+GDP_PER_CAPITA NaN             NaN
+RPRICE         NaN             NaN
+ar.L1          NaN             NaN
+sigma2         NaN             NaN
+07-06-2023 10:25:32 ERROR    [tsbatch.py:242] Standardized_coefficients: If using all scalar values, you must pass an index
+07-06-2023 10:25:34 INFO     [tsbatch.py:714]  vol-price change:-0.03638320529994938
+07-06-2023 10:25:34 INFO     [tsbatch.py:726] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+07-06-2023 10:25:34 INFO     [tsbatch.py:225] mult:                  0  Per_capita_vol
+intercept      NaN             NaN
+GDP_PER_CAPITA NaN             NaN
+RPRICE         NaN             NaN
+COVID          NaN             NaN
+sigma2         NaN             NaN
+07-06-2023 10:25:34 ERROR    [tsbatch.py:242] Standardized_coefficients: If using all scalar values, you must pass an index
+07-06-2023 10:25:34 INFO     [tsbatch.py:714]  vol-price change:-0.037298253788721834
+07-06-2023 10:25:34 INFO     [tsbatch.py:726] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+07-06-2023 10:25:34 INFO     [tsbatch.py:225] mult:                  0  Per_capita_vol
+intercept      NaN             NaN
+GDP_PER_CAPITA NaN             NaN
+RPRICE         NaN             NaN
+COVID          NaN             NaN
+ar.L1          NaN             NaN
+sigma2         NaN             NaN
+07-06-2023 10:25:34 ERROR    [tsbatch.py:242] Standardized_coefficients: If using all scalar values, you must pass an index
+07-06-2023 10:28:21 INFO     [anuman.py:48] A new session starts
+07-06-2023 10:28:21 INFO     [anuman.py:1376] in the dashboard
+07-06-2023 10:28:21 INFO     [anuman.py:1420] dashboard rendered successfully
+07-06-2023 10:28:23 INFO     [reg.py:65] xcode: True
+07-06-2023 10:28:23 INFO     [reg.py:66] expired: no
+07-06-2023 10:28:23 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+07-06-2023 10:28:23 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+07-06-2023 10:28:23 INFO     [reg.py:69] expiry date True
+07-06-2023 10:28:23 INFO     [anuman.py:67] Registration check has passed
+07-06-2023 10:28:31 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+07-06-2023 10:28:31 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 10:28:31 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 10:28:31 INFO     [anuman.py:1274] efefx_ui updated
+07-06-2023 10:28:31 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 10:28:31 INFO     [tsbatch.py:427] indexed on: Period
+07-06-2023 10:28:31 INFO     [tsbatch.py:428] frequency: Monthly (Month-start)
+07-06-2023 10:28:31 INFO     [tsbatch.py:430] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:28:31 INFO     [tsbatch.py:435] frequency code: MS
+07-06-2023 10:28:31 INFO     [tsbatch.py:439] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:28:31 INFO     [tsbatch.py:465] auto-arima: False
+07-06-2023 10:28:31 INFO     [tsbatch.py:372] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:28:31 INFO     [tsbatch.py:373] dep var: Per_capita_vol
+07-06-2023 10:28:31 INFO     [tsbatch.py:375] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 10:28:31 INFO     [tsbatch.py:381] other-exog: ['COVID']
+07-06-2023 10:28:32 INFO     [anuman.py:1357] transformation-list: []
+07-06-2023 10:28:33 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 10:28:33 INFO     [tsbatch.py:427] indexed on: Period
+07-06-2023 10:28:33 INFO     [tsbatch.py:428] frequency: Monthly (Month-start)
+07-06-2023 10:28:33 INFO     [tsbatch.py:430] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:28:33 INFO     [tsbatch.py:435] frequency code: MS
+07-06-2023 10:28:33 INFO     [tsbatch.py:439] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:28:33 INFO     [tsbatch.py:465] auto-arima: False
+07-06-2023 10:28:33 INFO     [tsbatch.py:372] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 10:28:33 INFO     [tsbatch.py:373] dep var: Per_capita_vol
+07-06-2023 10:28:33 INFO     [tsbatch.py:375] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 10:28:33 INFO     [tsbatch.py:381] other-exog: ['COVID']
+07-06-2023 10:28:34 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+07-06-2023 10:28:34 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+07-06-2023 10:28:34 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+07-06-2023 10:28:36 INFO     [tsbatch.py:715]  vol-price change:-0.018964217108768777
+07-06-2023 10:28:36 INFO     [tsbatch.py:727] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+07-06-2023 10:28:36 INFO     [tsbatch.py:225] mult:                  0  Per_capita_vol
+intercept      NaN             NaN
+GDP_PER_CAPITA NaN             NaN
+RPRICE         NaN             NaN
+sigma2         NaN             NaN
+07-06-2023 10:28:36 INFO     [tsbatch.py:715]  vol-price change:-0.01930906280389498
+07-06-2023 10:28:36 INFO     [tsbatch.py:727] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+07-06-2023 10:28:36 INFO     [tsbatch.py:225] mult:                  0  Per_capita_vol
+intercept      NaN             NaN
+GDP_PER_CAPITA NaN             NaN
+RPRICE         NaN             NaN
+ar.L1          NaN             NaN
+sigma2         NaN             NaN
+07-06-2023 10:28:38 INFO     [tsbatch.py:715]  vol-price change:-0.03638320529994938
+07-06-2023 10:28:38 INFO     [tsbatch.py:727] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+07-06-2023 10:28:38 INFO     [tsbatch.py:225] mult:                  0  Per_capita_vol
+intercept      NaN             NaN
+GDP_PER_CAPITA NaN             NaN
+RPRICE         NaN             NaN
+COVID          NaN             NaN
+sigma2         NaN             NaN
+07-06-2023 10:28:38 INFO     [tsbatch.py:715]  vol-price change:-0.037298253788721834
+07-06-2023 10:28:38 INFO     [tsbatch.py:727] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+07-06-2023 10:28:38 INFO     [tsbatch.py:225] mult:                  0  Per_capita_vol
+intercept      NaN             NaN
+GDP_PER_CAPITA NaN             NaN
+RPRICE         NaN             NaN
+COVID          NaN             NaN
+ar.L1          NaN             NaN
+sigma2         NaN             NaN
+07-06-2023 11:19:04 INFO     [anuman.py:48] A new session starts
+07-06-2023 11:19:04 INFO     [anuman.py:1376] in the dashboard
+07-06-2023 11:19:04 INFO     [anuman.py:1420] dashboard rendered successfully
+07-06-2023 11:19:05 INFO     [reg.py:65] xcode: True
+07-06-2023 11:19:05 INFO     [reg.py:66] expired: no
+07-06-2023 11:19:05 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+07-06-2023 11:19:05 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+07-06-2023 11:19:05 INFO     [reg.py:69] expiry date True
+07-06-2023 11:19:05 INFO     [anuman.py:67] Registration check has passed
+07-06-2023 11:19:15 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+07-06-2023 11:19:15 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 11:19:15 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 11:19:15 INFO     [anuman.py:1274] efefx_ui updated
+07-06-2023 11:19:15 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 11:19:15 INFO     [tsbatch.py:438] indexed on: Period
+07-06-2023 11:19:15 INFO     [tsbatch.py:439] frequency: Monthly (Month-start)
+07-06-2023 11:19:15 INFO     [tsbatch.py:441] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:19:15 INFO     [tsbatch.py:446] frequency code: MS
+07-06-2023 11:19:15 INFO     [tsbatch.py:450] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:19:15 INFO     [tsbatch.py:476] auto-arima: False
+07-06-2023 11:19:15 INFO     [tsbatch.py:383] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:19:15 INFO     [tsbatch.py:384] dep var: Per_capita_vol
+07-06-2023 11:19:15 INFO     [tsbatch.py:386] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 11:19:15 INFO     [tsbatch.py:392] other-exog: ['COVID']
+07-06-2023 11:19:17 INFO     [anuman.py:1357] transformation-list: []
+07-06-2023 11:19:18 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 11:19:18 INFO     [tsbatch.py:438] indexed on: Period
+07-06-2023 11:19:18 INFO     [tsbatch.py:439] frequency: Monthly (Month-start)
+07-06-2023 11:19:18 INFO     [tsbatch.py:441] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:19:18 INFO     [tsbatch.py:446] frequency code: MS
+07-06-2023 11:19:18 INFO     [tsbatch.py:450] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:19:18 INFO     [tsbatch.py:476] auto-arima: False
+07-06-2023 11:19:18 INFO     [tsbatch.py:383] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:19:18 INFO     [tsbatch.py:384] dep var: Per_capita_vol
+07-06-2023 11:19:18 INFO     [tsbatch.py:386] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 11:19:18 INFO     [tsbatch.py:392] other-exog: ['COVID']
+07-06-2023 11:19:22 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+07-06-2023 11:19:22 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+07-06-2023 11:19:22 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+07-06-2023 11:19:24 INFO     [tsbatch.py:726]  vol-price change:-0.018964217108768777
+07-06-2023 11:19:24 INFO     [tsbatch.py:738] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+07-06-2023 11:19:24 ERROR    [tsbatch.py:254] Standardized_coefficients: 'function' object has no attribute 'error'
+07-06-2023 11:19:24 INFO     [tsbatch.py:726]  vol-price change:-0.01930906280389498
+07-06-2023 11:19:24 INFO     [tsbatch.py:738] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+07-06-2023 11:19:24 ERROR    [tsbatch.py:254] Standardized_coefficients: 'function' object has no attribute 'error'
+07-06-2023 11:19:26 INFO     [tsbatch.py:726]  vol-price change:-0.03638320529994938
+07-06-2023 11:19:26 INFO     [tsbatch.py:738] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+07-06-2023 11:19:26 ERROR    [tsbatch.py:254] Standardized_coefficients: 'function' object has no attribute 'error'
+07-06-2023 11:19:26 INFO     [tsbatch.py:726]  vol-price change:-0.037298253788721834
+07-06-2023 11:19:26 INFO     [tsbatch.py:738] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+07-06-2023 11:19:26 ERROR    [tsbatch.py:254] Standardized_coefficients: 'function' object has no attribute 'error'
+07-06-2023 11:21:27 INFO     [anuman.py:48] A new session starts
+07-06-2023 11:21:28 INFO     [anuman.py:1376] in the dashboard
+07-06-2023 11:21:28 INFO     [anuman.py:1420] dashboard rendered successfully
+07-06-2023 11:21:28 INFO     [reg.py:65] xcode: True
+07-06-2023 11:21:28 INFO     [reg.py:66] expired: no
+07-06-2023 11:21:28 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+07-06-2023 11:21:28 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+07-06-2023 11:21:28 INFO     [reg.py:69] expiry date True
+07-06-2023 11:21:28 INFO     [anuman.py:67] Registration check has passed
+07-06-2023 11:21:38 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+07-06-2023 11:21:38 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 11:21:38 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 11:21:38 INFO     [anuman.py:1274] efefx_ui updated
+07-06-2023 11:21:38 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 11:21:38 INFO     [tsbatch.py:438] indexed on: Period
+07-06-2023 11:21:38 INFO     [tsbatch.py:439] frequency: Monthly (Month-start)
+07-06-2023 11:21:39 INFO     [tsbatch.py:441] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:21:39 INFO     [tsbatch.py:446] frequency code: MS
+07-06-2023 11:21:39 INFO     [tsbatch.py:450] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:21:39 INFO     [tsbatch.py:476] auto-arima: False
+07-06-2023 11:21:39 INFO     [tsbatch.py:383] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:21:39 INFO     [tsbatch.py:384] dep var: Per_capita_vol
+07-06-2023 11:21:39 INFO     [tsbatch.py:386] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 11:21:39 INFO     [tsbatch.py:392] other-exog: ['COVID']
+07-06-2023 11:21:40 INFO     [anuman.py:1357] transformation-list: []
+07-06-2023 11:21:42 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 11:21:42 INFO     [tsbatch.py:438] indexed on: Period
+07-06-2023 11:21:42 INFO     [tsbatch.py:439] frequency: Monthly (Month-start)
+07-06-2023 11:21:42 INFO     [tsbatch.py:441] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:21:42 INFO     [tsbatch.py:446] frequency code: MS
+07-06-2023 11:21:42 INFO     [tsbatch.py:450] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:21:42 INFO     [tsbatch.py:476] auto-arima: False
+07-06-2023 11:21:42 INFO     [tsbatch.py:383] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:21:42 INFO     [tsbatch.py:384] dep var: Per_capita_vol
+07-06-2023 11:21:42 INFO     [tsbatch.py:386] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 11:21:42 INFO     [tsbatch.py:392] other-exog: ['COVID']
+07-06-2023 11:21:43 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+07-06-2023 11:21:43 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+07-06-2023 11:21:43 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+07-06-2023 11:21:45 INFO     [tsbatch.py:726]  vol-price change:-0.018964217108768777
+07-06-2023 11:21:45 INFO     [tsbatch.py:738] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+07-06-2023 11:21:45 ERROR    [tsbatch.py:227] std_coeff: 'DataFrame' object has no attribute 'diagonal'
+07-06-2023 11:21:45 INFO     [tsbatch.py:726]  vol-price change:-0.01930906280389498
+07-06-2023 11:21:45 INFO     [tsbatch.py:738] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+07-06-2023 11:21:45 ERROR    [tsbatch.py:227] std_coeff: 'DataFrame' object has no attribute 'diagonal'
+07-06-2023 11:21:47 INFO     [tsbatch.py:726]  vol-price change:-0.03638320529994938
+07-06-2023 11:21:47 INFO     [tsbatch.py:738] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+07-06-2023 11:21:47 ERROR    [tsbatch.py:227] std_coeff: 'DataFrame' object has no attribute 'diagonal'
+07-06-2023 11:21:47 INFO     [tsbatch.py:726]  vol-price change:-0.037298253788721834
+07-06-2023 11:21:47 INFO     [tsbatch.py:738] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+07-06-2023 11:21:47 ERROR    [tsbatch.py:227] std_coeff: 'DataFrame' object has no attribute 'diagonal'
+07-06-2023 11:21:47 INFO     [tsbatch.py:215] output has been saved to TSF Training_Punjab.xlsx
+07-06-2023 11:23:35 INFO     [anuman.py:48] A new session starts
+07-06-2023 11:23:36 INFO     [anuman.py:1376] in the dashboard
+07-06-2023 11:23:36 INFO     [anuman.py:1420] dashboard rendered successfully
+07-06-2023 11:23:36 INFO     [reg.py:65] xcode: True
+07-06-2023 11:23:36 INFO     [reg.py:66] expired: no
+07-06-2023 11:23:36 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+07-06-2023 11:23:36 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+07-06-2023 11:23:36 INFO     [reg.py:69] expiry date True
+07-06-2023 11:23:36 INFO     [anuman.py:67] Registration check has passed
+07-06-2023 11:23:45 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+07-06-2023 11:23:45 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 11:23:45 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 11:23:45 INFO     [anuman.py:1274] efefx_ui updated
+07-06-2023 11:23:45 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 11:23:45 INFO     [tsbatch.py:438] indexed on: Period
+07-06-2023 11:23:45 INFO     [tsbatch.py:439] frequency: Monthly (Month-start)
+07-06-2023 11:23:45 INFO     [tsbatch.py:441] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:23:45 INFO     [tsbatch.py:446] frequency code: MS
+07-06-2023 11:23:45 INFO     [tsbatch.py:450] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:23:45 INFO     [tsbatch.py:476] auto-arima: False
+07-06-2023 11:23:45 INFO     [tsbatch.py:383] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:23:45 INFO     [tsbatch.py:384] dep var: Per_capita_vol
+07-06-2023 11:23:45 INFO     [tsbatch.py:386] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 11:23:45 INFO     [tsbatch.py:392] other-exog: ['COVID']
+07-06-2023 11:23:47 INFO     [anuman.py:1357] transformation-list: []
+07-06-2023 11:23:49 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 11:23:49 INFO     [tsbatch.py:438] indexed on: Period
+07-06-2023 11:23:49 INFO     [tsbatch.py:439] frequency: Monthly (Month-start)
+07-06-2023 11:23:49 INFO     [tsbatch.py:441] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:23:49 INFO     [tsbatch.py:446] frequency code: MS
+07-06-2023 11:23:49 INFO     [tsbatch.py:450] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:23:49 INFO     [tsbatch.py:476] auto-arima: False
+07-06-2023 11:23:49 INFO     [tsbatch.py:383] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:23:49 INFO     [tsbatch.py:384] dep var: Per_capita_vol
+07-06-2023 11:23:49 INFO     [tsbatch.py:386] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 11:23:49 INFO     [tsbatch.py:392] other-exog: ['COVID']
+07-06-2023 11:23:50 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+07-06-2023 11:23:50 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+07-06-2023 11:23:50 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+07-06-2023 11:23:52 INFO     [tsbatch.py:726]  vol-price change:-0.018964217108768777
+07-06-2023 11:23:52 INFO     [tsbatch.py:738] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+07-06-2023 11:23:52 INFO     [tsbatch.py:726]  vol-price change:-0.01930906280389498
+07-06-2023 11:23:52 INFO     [tsbatch.py:738] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+07-06-2023 11:23:54 INFO     [tsbatch.py:726]  vol-price change:-0.03638320529994938
+07-06-2023 11:23:54 INFO     [tsbatch.py:738] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+07-06-2023 11:23:54 INFO     [tsbatch.py:726]  vol-price change:-0.037298253788721834
+07-06-2023 11:23:54 INFO     [tsbatch.py:738] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+07-06-2023 11:23:55 INFO     [tsbatch.py:215] output has been saved to TSF Training_Punjab.xlsx
+07-06-2023 11:27:02 INFO     [anuman.py:48] A new session starts
+07-06-2023 11:27:02 INFO     [anuman.py:1376] in the dashboard
+07-06-2023 11:27:02 INFO     [anuman.py:1420] dashboard rendered successfully
+07-06-2023 11:27:03 INFO     [reg.py:65] xcode: True
+07-06-2023 11:27:03 INFO     [reg.py:66] expired: no
+07-06-2023 11:27:03 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+07-06-2023 11:27:03 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+07-06-2023 11:27:03 INFO     [reg.py:69] expiry date True
+07-06-2023 11:27:03 INFO     [anuman.py:67] Registration check has passed
+07-06-2023 11:27:11 INFO     [anuman.py:540] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+07-06-2023 11:27:12 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 11:27:12 WARNING  [anuman.py:472] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+07-06-2023 11:27:12 INFO     [anuman.py:1274] efefx_ui updated
+07-06-2023 11:27:12 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 11:27:12 INFO     [tsbatch.py:439] indexed on: Period
+07-06-2023 11:27:12 INFO     [tsbatch.py:440] frequency: Monthly (Month-start)
+07-06-2023 11:27:12 INFO     [tsbatch.py:442] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:27:12 INFO     [tsbatch.py:447] frequency code: MS
+07-06-2023 11:27:12 INFO     [tsbatch.py:451] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:27:12 INFO     [tsbatch.py:477] auto-arima: False
+07-06-2023 11:27:12 INFO     [tsbatch.py:384] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:27:12 INFO     [tsbatch.py:385] dep var: Per_capita_vol
+07-06-2023 11:27:12 INFO     [tsbatch.py:387] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 11:27:12 INFO     [tsbatch.py:393] other-exog: ['COVID']
+07-06-2023 11:27:13 INFO     [anuman.py:1357] transformation-list: []
+07-06-2023 11:27:15 INFO     [tsbatch.py:48] TSF Batch starts
+07-06-2023 11:27:15 INFO     [tsbatch.py:439] indexed on: Period
+07-06-2023 11:27:15 INFO     [tsbatch.py:440] frequency: Monthly (Month-start)
+07-06-2023 11:27:15 INFO     [tsbatch.py:442] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:27:15 INFO     [tsbatch.py:447] frequency code: MS
+07-06-2023 11:27:15 INFO     [tsbatch.py:451] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:27:15 INFO     [tsbatch.py:477] auto-arima: False
+07-06-2023 11:27:15 INFO     [tsbatch.py:384] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+07-06-2023 11:27:15 INFO     [tsbatch.py:385] dep var: Per_capita_vol
+07-06-2023 11:27:15 INFO     [tsbatch.py:387] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+07-06-2023 11:27:15 INFO     [tsbatch.py:393] other-exog: ['COVID']
+07-06-2023 11:27:19 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+07-06-2023 11:27:19 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+07-06-2023 11:27:19 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+07-06-2023 11:27:21 INFO     [tsbatch.py:727]  vol-price change:-0.018964217108768777
+07-06-2023 11:27:21 INFO     [tsbatch.py:739] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+07-06-2023 11:27:21 INFO     [tsbatch.py:727]  vol-price change:-0.01930906280389498
+07-06-2023 11:27:21 INFO     [tsbatch.py:739] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+07-06-2023 11:27:23 INFO     [tsbatch.py:727]  vol-price change:-0.03638320529994938
+07-06-2023 11:27:23 INFO     [tsbatch.py:739] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+07-06-2023 11:27:23 INFO     [tsbatch.py:727]  vol-price change:-0.037298253788721834
+07-06-2023 11:27:23 INFO     [tsbatch.py:739] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+07-06-2023 11:27:23 INFO     [tsbatch.py:216] output has been saved to TSF Training_Punjab.xlsx
+21-07-2023 11:11:13 INFO     [anuman.py:49] A new session starts
+21-07-2023 11:11:22 INFO     [anuman.py:1377] in the dashboard
+21-07-2023 11:11:22 INFO     [anuman.py:1421] dashboard rendered successfully
+21-07-2023 11:11:23 INFO     [reg.py:65] xcode: True
+21-07-2023 11:11:23 INFO     [reg.py:66] expired: no
+21-07-2023 11:11:23 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+21-07-2023 11:11:23 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+21-07-2023 11:11:23 INFO     [reg.py:69] expiry date False
+21-07-2023 11:11:23 INFO     [anuman.py:81] {'expired': 'no', 'expiry_date': '2023-07-07', 'machine_name': 'IMPUFL0O51', 'hdd': '            WN90XFMR', 'xcode': '346B'}
+21-07-2023 11:11:23 ERROR    [anuman.py:72] Registration check has failed
+21-07-2023 17:56:49 INFO     [anuman.py:49] A new session starts
+21-07-2023 17:56:58 INFO     [anuman.py:1377] in the dashboard
+21-07-2023 17:56:58 INFO     [anuman.py:1421] dashboard rendered successfully
+21-07-2023 17:56:59 INFO     [reg.py:65] xcode: False
+21-07-2023 17:56:59 INFO     [reg.py:66] expired: yes
+21-07-2023 17:56:59 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+21-07-2023 17:56:59 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+21-07-2023 17:56:59 INFO     [reg.py:69] expiry date False
+21-07-2023 17:56:59 INFO     [anuman.py:81] {'expired': 'yes', 'expiry_date': '2023-07-21', 'machine_name': 'IMPUFL0O51', 'hdd': '            WN90XFMR'}
+21-07-2023 17:56:59 ERROR    [anuman.py:72] Registration check has failed
+21-07-2023 17:59:19 INFO     [anuman.py:49] A new session starts
+21-07-2023 17:59:19 INFO     [anuman.py:1377] in the dashboard
+21-07-2023 17:59:19 INFO     [anuman.py:1421] dashboard rendered successfully
+21-07-2023 17:59:20 INFO     [reg.py:65] xcode: True
+21-07-2023 17:59:20 INFO     [reg.py:66] expired: no
+21-07-2023 17:59:20 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+21-07-2023 17:59:20 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+21-07-2023 17:59:20 INFO     [reg.py:69] expiry date True
+21-07-2023 17:59:20 INFO     [anuman.py:68] Registration check has passed
+21-07-2023 17:59:40 INFO     [anuman.py:541] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+21-07-2023 17:59:41 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 17:59:41 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 17:59:41 INFO     [anuman.py:1275] efefx_ui updated
+21-07-2023 17:59:41 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 17:59:41 INFO     [tsbatch.py:459] indexed on: Period
+21-07-2023 17:59:41 INFO     [tsbatch.py:460] frequency: Monthly (Month-start)
+21-07-2023 17:59:41 INFO     [tsbatch.py:462] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 17:59:41 INFO     [tsbatch.py:467] frequency code: MS
+21-07-2023 17:59:41 INFO     [tsbatch.py:471] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 17:59:41 INFO     [tsbatch.py:497] auto-arima: False
+21-07-2023 17:59:41 INFO     [tsbatch.py:404] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 17:59:41 INFO     [tsbatch.py:405] dep var: Per_capita_vol
+21-07-2023 17:59:41 INFO     [tsbatch.py:407] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 17:59:41 INFO     [tsbatch.py:413] other-exog: ['COVID']
+21-07-2023 17:59:50 INFO     [anuman.py:1358] transformation-list: []
+21-07-2023 17:59:52 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 17:59:52 INFO     [tsbatch.py:459] indexed on: Period
+21-07-2023 17:59:52 INFO     [tsbatch.py:460] frequency: Monthly (Month-start)
+21-07-2023 17:59:52 INFO     [tsbatch.py:462] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 17:59:52 INFO     [tsbatch.py:467] frequency code: MS
+21-07-2023 17:59:52 INFO     [tsbatch.py:471] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 17:59:52 INFO     [tsbatch.py:497] auto-arima: False
+21-07-2023 17:59:52 INFO     [tsbatch.py:404] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 17:59:52 INFO     [tsbatch.py:405] dep var: Per_capita_vol
+21-07-2023 17:59:52 INFO     [tsbatch.py:407] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 17:59:52 INFO     [tsbatch.py:413] other-exog: ['COVID']
+21-07-2023 17:59:54 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+21-07-2023 17:59:55 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+21-07-2023 17:59:55 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+21-07-2023 17:59:57 INFO     [tsbatch.py:747]  vol-price change:-0.018964217108768777
+21-07-2023 17:59:57 INFO     [tsbatch.py:759] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+21-07-2023 17:59:58 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.15777907012784378, 'RPRICE': -0.029271817725776656}
+21-07-2023 17:59:58 INFO     [tsbatch.py:747]  vol-price change:-0.01930906280389498
+21-07-2023 17:59:58 INFO     [tsbatch.py:759] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+21-07-2023 17:59:58 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1577782445808831, 'RPRICE': -0.029289732832756675}
+21-07-2023 18:00:00 INFO     [tsbatch.py:747]  vol-price change:-0.03638320529994938
+21-07-2023 18:00:00 INFO     [tsbatch.py:759] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+21-07-2023 18:00:00 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1404921951238507, 'RPRICE': -0.05649611160238428, 'COVID': 0.2131911657157612}
+21-07-2023 18:00:00 INFO     [tsbatch.py:747]  vol-price change:-0.037298253788721834
+21-07-2023 18:00:00 INFO     [tsbatch.py:759] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+21-07-2023 18:00:00 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.14049139246476153, 'RPRICE': -0.05651075780199096, 'COVID': 0.21197628020194237}
+21-07-2023 18:09:40 INFO     [anuman.py:49] A new session starts
+21-07-2023 18:09:40 INFO     [anuman.py:1377] in the dashboard
+21-07-2023 18:09:40 INFO     [anuman.py:1421] dashboard rendered successfully
+21-07-2023 18:09:41 INFO     [reg.py:65] xcode: True
+21-07-2023 18:09:41 INFO     [reg.py:66] expired: no
+21-07-2023 18:09:41 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+21-07-2023 18:09:41 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+21-07-2023 18:09:41 INFO     [reg.py:69] expiry date True
+21-07-2023 18:09:41 INFO     [anuman.py:68] Registration check has passed
+21-07-2023 18:09:52 INFO     [anuman.py:541] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+21-07-2023 18:09:52 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 18:09:52 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 18:09:52 INFO     [anuman.py:1275] efefx_ui updated
+21-07-2023 18:09:52 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 18:09:52 INFO     [tsbatch.py:459] indexed on: Period
+21-07-2023 18:09:52 INFO     [tsbatch.py:460] frequency: Monthly (Month-start)
+21-07-2023 18:09:52 INFO     [tsbatch.py:462] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:09:52 INFO     [tsbatch.py:467] frequency code: MS
+21-07-2023 18:09:52 INFO     [tsbatch.py:471] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:09:52 INFO     [tsbatch.py:497] auto-arima: False
+21-07-2023 18:09:52 INFO     [tsbatch.py:404] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:09:52 INFO     [tsbatch.py:405] dep var: Per_capita_vol
+21-07-2023 18:09:52 INFO     [tsbatch.py:407] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 18:09:52 INFO     [tsbatch.py:413] other-exog: ['COVID']
+21-07-2023 18:09:55 INFO     [anuman.py:1358] transformation-list: []
+21-07-2023 18:09:57 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 18:09:57 INFO     [tsbatch.py:459] indexed on: Period
+21-07-2023 18:09:57 INFO     [tsbatch.py:460] frequency: Monthly (Month-start)
+21-07-2023 18:09:57 INFO     [tsbatch.py:462] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:09:57 INFO     [tsbatch.py:467] frequency code: MS
+21-07-2023 18:09:57 INFO     [tsbatch.py:471] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:09:57 INFO     [tsbatch.py:497] auto-arima: False
+21-07-2023 18:09:57 INFO     [tsbatch.py:404] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:09:57 INFO     [tsbatch.py:405] dep var: Per_capita_vol
+21-07-2023 18:09:57 INFO     [tsbatch.py:407] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 18:09:57 INFO     [tsbatch.py:413] other-exog: ['COVID']
+21-07-2023 18:09:59 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+21-07-2023 18:09:59 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+21-07-2023 18:09:59 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+21-07-2023 18:10:00 INFO     [tsbatch.py:747]  vol-price change:-0.018964217108768777
+21-07-2023 18:10:00 INFO     [tsbatch.py:759] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+21-07-2023 18:10:00 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.15777907012784378, 'RPRICE': -0.029271817725776656}
+21-07-2023 18:10:01 INFO     [tsbatch.py:747]  vol-price change:-0.01930906280389498
+21-07-2023 18:10:01 INFO     [tsbatch.py:759] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+21-07-2023 18:10:01 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1577782445808831, 'RPRICE': -0.029289732832756675}
+21-07-2023 18:10:03 INFO     [tsbatch.py:747]  vol-price change:-0.03638320529994938
+21-07-2023 18:10:03 INFO     [tsbatch.py:759] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+21-07-2023 18:10:03 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1404921951238507, 'RPRICE': -0.05649611160238428, 'COVID': 0.2131911657157612}
+21-07-2023 18:10:03 INFO     [tsbatch.py:747]  vol-price change:-0.037298253788721834
+21-07-2023 18:10:03 INFO     [tsbatch.py:759] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+21-07-2023 18:10:03 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.14049139246476153, 'RPRICE': -0.05651075780199096, 'COVID': 0.21197628020194237}
+21-07-2023 18:11:40 INFO     [anuman.py:49] A new session starts
+21-07-2023 18:11:41 INFO     [anuman.py:1377] in the dashboard
+21-07-2023 18:11:41 INFO     [anuman.py:1421] dashboard rendered successfully
+21-07-2023 18:11:41 INFO     [reg.py:65] xcode: True
+21-07-2023 18:11:41 INFO     [reg.py:66] expired: no
+21-07-2023 18:11:41 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+21-07-2023 18:11:41 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+21-07-2023 18:11:41 INFO     [reg.py:69] expiry date True
+21-07-2023 18:11:41 INFO     [anuman.py:68] Registration check has passed
+21-07-2023 18:11:49 INFO     [anuman.py:541] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+21-07-2023 18:11:49 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 18:11:49 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 18:11:49 INFO     [anuman.py:1275] efefx_ui updated
+21-07-2023 18:11:49 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 18:11:49 INFO     [tsbatch.py:459] indexed on: Period
+21-07-2023 18:11:49 INFO     [tsbatch.py:460] frequency: Monthly (Month-start)
+21-07-2023 18:11:49 INFO     [tsbatch.py:462] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:11:49 INFO     [tsbatch.py:467] frequency code: MS
+21-07-2023 18:11:49 INFO     [tsbatch.py:471] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:11:49 INFO     [tsbatch.py:497] auto-arima: False
+21-07-2023 18:11:49 INFO     [tsbatch.py:404] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:11:49 INFO     [tsbatch.py:405] dep var: Per_capita_vol
+21-07-2023 18:11:49 INFO     [tsbatch.py:407] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 18:11:49 INFO     [tsbatch.py:413] other-exog: ['COVID']
+21-07-2023 18:11:51 INFO     [anuman.py:1358] transformation-list: []
+21-07-2023 18:11:53 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 18:11:53 INFO     [tsbatch.py:459] indexed on: Period
+21-07-2023 18:11:53 INFO     [tsbatch.py:460] frequency: Monthly (Month-start)
+21-07-2023 18:11:53 INFO     [tsbatch.py:462] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:11:53 INFO     [tsbatch.py:467] frequency code: MS
+21-07-2023 18:11:53 INFO     [tsbatch.py:471] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:11:53 INFO     [tsbatch.py:497] auto-arima: False
+21-07-2023 18:11:53 INFO     [tsbatch.py:404] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:11:53 INFO     [tsbatch.py:405] dep var: Per_capita_vol
+21-07-2023 18:11:53 INFO     [tsbatch.py:407] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 18:11:53 INFO     [tsbatch.py:413] other-exog: ['COVID']
+21-07-2023 18:11:55 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+21-07-2023 18:11:55 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+21-07-2023 18:11:55 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+21-07-2023 18:11:56 INFO     [tsbatch.py:747]  vol-price change:-0.018964217108768777
+21-07-2023 18:11:56 INFO     [tsbatch.py:759] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+21-07-2023 18:11:56 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.15777907012784378, 'RPRICE': -0.029271817725776656}
+21-07-2023 18:11:57 INFO     [tsbatch.py:747]  vol-price change:-0.01930906280389498
+21-07-2023 18:11:57 INFO     [tsbatch.py:759] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+21-07-2023 18:11:57 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1577782445808831, 'RPRICE': -0.029289732832756675}
+21-07-2023 18:11:59 INFO     [tsbatch.py:747]  vol-price change:-0.03638320529994938
+21-07-2023 18:11:59 INFO     [tsbatch.py:759] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+21-07-2023 18:11:59 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1404921951238507, 'RPRICE': -0.05649611160238428, 'COVID': 0.2131911657157612}
+21-07-2023 18:11:59 INFO     [tsbatch.py:747]  vol-price change:-0.037298253788721834
+21-07-2023 18:11:59 INFO     [tsbatch.py:759] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+21-07-2023 18:11:59 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.14049139246476153, 'RPRICE': -0.05651075780199096, 'COVID': 0.21197628020194237}
+21-07-2023 18:13:29 INFO     [anuman.py:49] A new session starts
+21-07-2023 18:13:29 INFO     [anuman.py:1377] in the dashboard
+21-07-2023 18:13:29 INFO     [anuman.py:1421] dashboard rendered successfully
+21-07-2023 18:13:30 INFO     [reg.py:65] xcode: True
+21-07-2023 18:13:30 INFO     [reg.py:66] expired: no
+21-07-2023 18:13:30 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+21-07-2023 18:13:30 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+21-07-2023 18:13:30 INFO     [reg.py:69] expiry date True
+21-07-2023 18:13:30 INFO     [anuman.py:68] Registration check has passed
+21-07-2023 18:13:41 INFO     [anuman.py:541] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+21-07-2023 18:13:41 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 18:13:41 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 18:13:41 INFO     [anuman.py:1275] efefx_ui updated
+21-07-2023 18:13:41 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 18:13:41 INFO     [tsbatch.py:459] indexed on: Period
+21-07-2023 18:13:41 INFO     [tsbatch.py:460] frequency: Monthly (Month-start)
+21-07-2023 18:13:41 INFO     [tsbatch.py:462] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:13:41 INFO     [tsbatch.py:467] frequency code: MS
+21-07-2023 18:13:41 INFO     [tsbatch.py:471] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:13:41 INFO     [tsbatch.py:497] auto-arima: False
+21-07-2023 18:13:41 INFO     [tsbatch.py:404] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:13:41 INFO     [tsbatch.py:405] dep var: Per_capita_vol
+21-07-2023 18:13:41 INFO     [tsbatch.py:407] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 18:13:41 INFO     [tsbatch.py:413] other-exog: ['COVID']
+21-07-2023 18:13:43 INFO     [anuman.py:1358] transformation-list: []
+21-07-2023 18:13:44 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 18:13:44 INFO     [tsbatch.py:459] indexed on: Period
+21-07-2023 18:13:44 INFO     [tsbatch.py:460] frequency: Monthly (Month-start)
+21-07-2023 18:13:44 INFO     [tsbatch.py:462] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:13:44 INFO     [tsbatch.py:467] frequency code: MS
+21-07-2023 18:13:44 INFO     [tsbatch.py:471] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:13:44 INFO     [tsbatch.py:497] auto-arima: False
+21-07-2023 18:13:44 INFO     [tsbatch.py:404] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:13:44 INFO     [tsbatch.py:405] dep var: Per_capita_vol
+21-07-2023 18:13:44 INFO     [tsbatch.py:407] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 18:13:44 INFO     [tsbatch.py:413] other-exog: ['COVID']
+21-07-2023 18:13:45 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+21-07-2023 18:13:45 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+21-07-2023 18:13:45 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+21-07-2023 18:13:47 INFO     [tsbatch.py:747]  vol-price change:-0.018964217108768777
+21-07-2023 18:13:47 INFO     [tsbatch.py:759] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+21-07-2023 18:13:47 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.15777907012784378, 'RPRICE': -0.029271817725776656}
+21-07-2023 18:13:47 INFO     [tsbatch.py:747]  vol-price change:-0.01930906280389498
+21-07-2023 18:13:47 INFO     [tsbatch.py:759] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+21-07-2023 18:13:47 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1577782445808831, 'RPRICE': -0.029289732832756675}
+21-07-2023 18:13:50 INFO     [tsbatch.py:747]  vol-price change:-0.03638320529994938
+21-07-2023 18:13:50 INFO     [tsbatch.py:759] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+21-07-2023 18:13:50 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1404921951238507, 'RPRICE': -0.05649611160238428, 'COVID': 0.2131911657157612}
+21-07-2023 18:13:50 INFO     [tsbatch.py:747]  vol-price change:-0.037298253788721834
+21-07-2023 18:13:50 INFO     [tsbatch.py:759] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+21-07-2023 18:13:50 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.14049139246476153, 'RPRICE': -0.05651075780199096, 'COVID': 0.21197628020194237}
+21-07-2023 18:15:31 INFO     [anuman.py:49] A new session starts
+21-07-2023 18:15:32 INFO     [anuman.py:1377] in the dashboard
+21-07-2023 18:15:32 INFO     [anuman.py:1421] dashboard rendered successfully
+21-07-2023 18:15:32 INFO     [reg.py:65] xcode: True
+21-07-2023 18:15:32 INFO     [reg.py:66] expired: no
+21-07-2023 18:15:32 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+21-07-2023 18:15:32 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+21-07-2023 18:15:32 INFO     [reg.py:69] expiry date True
+21-07-2023 18:15:32 INFO     [anuman.py:68] Registration check has passed
+21-07-2023 18:15:38 INFO     [anuman.py:541] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+21-07-2023 18:15:39 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 18:15:39 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 18:15:39 INFO     [anuman.py:1275] efefx_ui updated
+21-07-2023 18:15:39 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 18:15:39 INFO     [tsbatch.py:459] indexed on: Period
+21-07-2023 18:15:39 INFO     [tsbatch.py:460] frequency: Monthly (Month-start)
+21-07-2023 18:15:39 INFO     [tsbatch.py:462] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:15:39 INFO     [tsbatch.py:467] frequency code: MS
+21-07-2023 18:15:39 INFO     [tsbatch.py:471] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:15:39 INFO     [tsbatch.py:497] auto-arima: False
+21-07-2023 18:15:39 INFO     [tsbatch.py:404] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:15:39 INFO     [tsbatch.py:405] dep var: Per_capita_vol
+21-07-2023 18:15:39 INFO     [tsbatch.py:407] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 18:15:39 INFO     [tsbatch.py:413] other-exog: ['COVID']
+21-07-2023 18:15:42 INFO     [anuman.py:1358] transformation-list: []
+21-07-2023 18:15:44 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 18:15:44 INFO     [tsbatch.py:459] indexed on: Period
+21-07-2023 18:15:44 INFO     [tsbatch.py:460] frequency: Monthly (Month-start)
+21-07-2023 18:15:44 INFO     [tsbatch.py:462] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:15:44 INFO     [tsbatch.py:467] frequency code: MS
+21-07-2023 18:15:44 INFO     [tsbatch.py:471] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:15:44 INFO     [tsbatch.py:497] auto-arima: False
+21-07-2023 18:15:44 INFO     [tsbatch.py:404] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:15:44 INFO     [tsbatch.py:405] dep var: Per_capita_vol
+21-07-2023 18:15:44 INFO     [tsbatch.py:407] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 18:15:44 INFO     [tsbatch.py:413] other-exog: ['COVID']
+21-07-2023 18:15:50 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+21-07-2023 18:15:50 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+21-07-2023 18:15:50 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+21-07-2023 18:15:52 INFO     [tsbatch.py:747]  vol-price change:-0.018964217108768777
+21-07-2023 18:15:52 INFO     [tsbatch.py:759] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+21-07-2023 18:15:52 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.15777907012784378, 'RPRICE': -0.029271817725776656}
+21-07-2023 18:15:52 INFO     [tsbatch.py:747]  vol-price change:-0.01930906280389498
+21-07-2023 18:15:52 INFO     [tsbatch.py:759] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+21-07-2023 18:15:52 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1577782445808831, 'RPRICE': -0.029289732832756675}
+21-07-2023 18:15:54 INFO     [tsbatch.py:747]  vol-price change:-0.03638320529994938
+21-07-2023 18:15:54 INFO     [tsbatch.py:759] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+21-07-2023 18:15:54 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1404921951238507, 'RPRICE': -0.05649611160238428, 'COVID': 0.2131911657157612}
+21-07-2023 18:15:54 INFO     [tsbatch.py:747]  vol-price change:-0.037298253788721834
+21-07-2023 18:15:54 INFO     [tsbatch.py:759] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+21-07-2023 18:15:54 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.14049139246476153, 'RPRICE': -0.05651075780199096, 'COVID': 0.21197628020194237}
+21-07-2023 18:15:55 INFO     [tsbatch.py:219] output has been saved to TSF Training_Punjab.xlsx
+21-07-2023 18:18:06 INFO     [anuman.py:49] A new session starts
+21-07-2023 18:18:07 INFO     [anuman.py:1377] in the dashboard
+21-07-2023 18:18:07 INFO     [anuman.py:1421] dashboard rendered successfully
+21-07-2023 18:18:07 INFO     [reg.py:65] xcode: True
+21-07-2023 18:18:07 INFO     [reg.py:66] expired: no
+21-07-2023 18:18:07 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+21-07-2023 18:18:07 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+21-07-2023 18:18:07 INFO     [reg.py:69] expiry date True
+21-07-2023 18:18:07 INFO     [anuman.py:68] Registration check has passed
+21-07-2023 18:18:14 INFO     [anuman.py:541] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+21-07-2023 18:18:15 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 18:18:15 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 18:18:15 INFO     [anuman.py:1275] efefx_ui updated
+21-07-2023 18:18:15 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 18:18:15 INFO     [tsbatch.py:459] indexed on: Period
+21-07-2023 18:18:15 INFO     [tsbatch.py:460] frequency: Monthly (Month-start)
+21-07-2023 18:18:15 INFO     [tsbatch.py:462] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:18:15 INFO     [tsbatch.py:467] frequency code: MS
+21-07-2023 18:18:15 INFO     [tsbatch.py:471] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:18:15 INFO     [tsbatch.py:497] auto-arima: False
+21-07-2023 18:18:15 INFO     [tsbatch.py:404] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:18:15 INFO     [tsbatch.py:405] dep var: Per_capita_vol
+21-07-2023 18:18:15 INFO     [tsbatch.py:407] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 18:18:15 INFO     [tsbatch.py:413] other-exog: ['COVID']
+21-07-2023 18:18:16 INFO     [anuman.py:1358] transformation-list: []
+21-07-2023 18:18:19 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 18:18:19 INFO     [tsbatch.py:459] indexed on: Period
+21-07-2023 18:18:19 INFO     [tsbatch.py:460] frequency: Monthly (Month-start)
+21-07-2023 18:18:19 INFO     [tsbatch.py:462] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:18:19 INFO     [tsbatch.py:467] frequency code: MS
+21-07-2023 18:18:19 INFO     [tsbatch.py:471] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:18:19 INFO     [tsbatch.py:497] auto-arima: False
+21-07-2023 18:18:19 INFO     [tsbatch.py:404] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:18:19 INFO     [tsbatch.py:405] dep var: Per_capita_vol
+21-07-2023 18:18:19 INFO     [tsbatch.py:407] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 18:18:19 INFO     [tsbatch.py:413] other-exog: ['COVID']
+21-07-2023 18:18:21 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+21-07-2023 18:18:21 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+21-07-2023 18:18:21 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+21-07-2023 18:18:23 INFO     [tsbatch.py:747]  vol-price change:-0.018964217108768777
+21-07-2023 18:18:23 INFO     [tsbatch.py:759] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+21-07-2023 18:18:23 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.15777907012784378, 'RPRICE': -0.029271817725776656}
+21-07-2023 18:18:23 INFO     [tsbatch.py:747]  vol-price change:-0.01930906280389498
+21-07-2023 18:18:23 INFO     [tsbatch.py:759] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+21-07-2023 18:18:23 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1577782445808831, 'RPRICE': -0.029289732832756675}
+21-07-2023 18:18:25 INFO     [tsbatch.py:747]  vol-price change:-0.03638320529994938
+21-07-2023 18:18:25 INFO     [tsbatch.py:759] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+21-07-2023 18:18:25 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1404921951238507, 'RPRICE': -0.05649611160238428, 'COVID': 0.2131911657157612}
+21-07-2023 18:18:25 INFO     [tsbatch.py:747]  vol-price change:-0.037298253788721834
+21-07-2023 18:18:25 INFO     [tsbatch.py:759] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+21-07-2023 18:18:25 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.14049139246476153, 'RPRICE': -0.05651075780199096, 'COVID': 0.21197628020194237}
+21-07-2023 18:18:25 INFO     [tsbatch.py:219] output has been saved to TSF Training_Punjab.xlsx
+21-07-2023 18:20:38 INFO     [anuman.py:49] A new session starts
+21-07-2023 18:20:39 INFO     [anuman.py:1377] in the dashboard
+21-07-2023 18:20:39 INFO     [anuman.py:1421] dashboard rendered successfully
+21-07-2023 18:20:39 INFO     [reg.py:65] xcode: True
+21-07-2023 18:20:39 INFO     [reg.py:66] expired: no
+21-07-2023 18:20:39 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+21-07-2023 18:20:39 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+21-07-2023 18:20:39 INFO     [reg.py:69] expiry date True
+21-07-2023 18:20:39 INFO     [anuman.py:68] Registration check has passed
+21-07-2023 18:20:49 INFO     [anuman.py:541] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+21-07-2023 18:20:49 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 18:20:49 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 18:20:49 INFO     [anuman.py:1275] efefx_ui updated
+21-07-2023 18:20:49 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 18:20:49 INFO     [tsbatch.py:459] indexed on: Period
+21-07-2023 18:20:49 INFO     [tsbatch.py:460] frequency: Monthly (Month-start)
+21-07-2023 18:20:49 INFO     [tsbatch.py:462] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:20:49 INFO     [tsbatch.py:467] frequency code: MS
+21-07-2023 18:20:49 INFO     [tsbatch.py:471] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:20:49 INFO     [tsbatch.py:497] auto-arima: False
+21-07-2023 18:20:49 INFO     [tsbatch.py:404] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:20:49 INFO     [tsbatch.py:405] dep var: Per_capita_vol
+21-07-2023 18:20:49 INFO     [tsbatch.py:407] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 18:20:49 INFO     [tsbatch.py:413] other-exog: ['COVID']
+21-07-2023 18:20:52 INFO     [anuman.py:1358] transformation-list: []
+21-07-2023 18:20:54 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 18:20:54 INFO     [tsbatch.py:459] indexed on: Period
+21-07-2023 18:20:54 INFO     [tsbatch.py:460] frequency: Monthly (Month-start)
+21-07-2023 18:20:54 INFO     [tsbatch.py:462] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:20:54 INFO     [tsbatch.py:467] frequency code: MS
+21-07-2023 18:20:54 INFO     [tsbatch.py:471] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:20:54 INFO     [tsbatch.py:497] auto-arima: False
+21-07-2023 18:20:54 INFO     [tsbatch.py:404] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:20:54 INFO     [tsbatch.py:405] dep var: Per_capita_vol
+21-07-2023 18:20:54 INFO     [tsbatch.py:407] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 18:20:54 INFO     [tsbatch.py:413] other-exog: ['COVID']
+21-07-2023 18:20:56 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+21-07-2023 18:20:56 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+21-07-2023 18:20:56 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+21-07-2023 18:20:58 INFO     [tsbatch.py:747]  vol-price change:-0.018964217108768777
+21-07-2023 18:20:58 INFO     [tsbatch.py:759] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+21-07-2023 18:20:58 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.15777907012784378, 'RPRICE': -0.029271817725776656}
+21-07-2023 18:20:58 INFO     [tsbatch.py:747]  vol-price change:-0.01930906280389498
+21-07-2023 18:20:58 INFO     [tsbatch.py:759] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+21-07-2023 18:20:58 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1577782445808831, 'RPRICE': -0.029289732832756675}
+21-07-2023 18:21:00 INFO     [tsbatch.py:747]  vol-price change:-0.03638320529994938
+21-07-2023 18:21:00 INFO     [tsbatch.py:759] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+21-07-2023 18:21:00 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1404921951238507, 'RPRICE': -0.05649611160238428, 'COVID': 0.2131911657157612}
+21-07-2023 18:21:00 INFO     [tsbatch.py:747]  vol-price change:-0.037298253788721834
+21-07-2023 18:21:00 INFO     [tsbatch.py:759] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+21-07-2023 18:21:00 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.14049139246476153, 'RPRICE': -0.05651075780199096, 'COVID': 0.21197628020194237}
+21-07-2023 18:22:38 INFO     [anuman.py:49] A new session starts
+21-07-2023 18:22:39 INFO     [anuman.py:1377] in the dashboard
+21-07-2023 18:22:39 INFO     [anuman.py:1421] dashboard rendered successfully
+21-07-2023 18:22:39 INFO     [reg.py:65] xcode: True
+21-07-2023 18:22:39 INFO     [reg.py:66] expired: no
+21-07-2023 18:22:39 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+21-07-2023 18:22:39 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+21-07-2023 18:22:39 INFO     [reg.py:69] expiry date True
+21-07-2023 18:22:39 INFO     [anuman.py:68] Registration check has passed
+21-07-2023 18:22:48 INFO     [anuman.py:541] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+21-07-2023 18:22:48 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 18:22:48 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 18:22:48 INFO     [anuman.py:1275] efefx_ui updated
+21-07-2023 18:22:48 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 18:22:48 INFO     [tsbatch.py:459] indexed on: Period
+21-07-2023 18:22:48 INFO     [tsbatch.py:460] frequency: Monthly (Month-start)
+21-07-2023 18:22:48 INFO     [tsbatch.py:462] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:22:48 INFO     [tsbatch.py:467] frequency code: MS
+21-07-2023 18:22:48 INFO     [tsbatch.py:471] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:22:48 INFO     [tsbatch.py:497] auto-arima: False
+21-07-2023 18:22:48 INFO     [tsbatch.py:404] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:22:48 INFO     [tsbatch.py:405] dep var: Per_capita_vol
+21-07-2023 18:22:48 INFO     [tsbatch.py:407] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 18:22:48 INFO     [tsbatch.py:413] other-exog: ['COVID']
+21-07-2023 18:22:50 INFO     [anuman.py:1358] transformation-list: []
+21-07-2023 18:22:51 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 18:22:51 INFO     [tsbatch.py:459] indexed on: Period
+21-07-2023 18:22:51 INFO     [tsbatch.py:460] frequency: Monthly (Month-start)
+21-07-2023 18:22:51 INFO     [tsbatch.py:462] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:22:51 INFO     [tsbatch.py:467] frequency code: MS
+21-07-2023 18:22:51 INFO     [tsbatch.py:471] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:22:51 INFO     [tsbatch.py:497] auto-arima: False
+21-07-2023 18:22:51 INFO     [tsbatch.py:404] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:22:51 INFO     [tsbatch.py:405] dep var: Per_capita_vol
+21-07-2023 18:22:51 INFO     [tsbatch.py:407] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 18:22:51 INFO     [tsbatch.py:413] other-exog: ['COVID']
+21-07-2023 18:22:53 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+21-07-2023 18:22:53 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+21-07-2023 18:22:53 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+21-07-2023 18:22:55 INFO     [tsbatch.py:747]  vol-price change:-0.018964217108768777
+21-07-2023 18:22:55 INFO     [tsbatch.py:759] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+21-07-2023 18:22:55 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.15777907012784378, 'RPRICE': -0.029271817725776656}
+21-07-2023 18:22:55 INFO     [tsbatch.py:747]  vol-price change:-0.01930906280389498
+21-07-2023 18:22:55 INFO     [tsbatch.py:759] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+21-07-2023 18:22:55 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1577782445808831, 'RPRICE': -0.029289732832756675}
+21-07-2023 18:22:57 INFO     [tsbatch.py:747]  vol-price change:-0.03638320529994938
+21-07-2023 18:22:57 INFO     [tsbatch.py:759] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+21-07-2023 18:22:57 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1404921951238507, 'RPRICE': -0.05649611160238428, 'COVID': 0.2131911657157612}
+21-07-2023 18:22:57 INFO     [tsbatch.py:747]  vol-price change:-0.037298253788721834
+21-07-2023 18:22:57 INFO     [tsbatch.py:759] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+21-07-2023 18:22:57 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.14049139246476153, 'RPRICE': -0.05651075780199096, 'COVID': 0.21197628020194237}
+21-07-2023 18:27:32 INFO     [anuman.py:49] A new session starts
+21-07-2023 18:27:32 INFO     [anuman.py:1377] in the dashboard
+21-07-2023 18:27:32 INFO     [anuman.py:1421] dashboard rendered successfully
+21-07-2023 18:27:32 INFO     [reg.py:65] xcode: True
+21-07-2023 18:27:32 INFO     [reg.py:66] expired: no
+21-07-2023 18:27:32 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+21-07-2023 18:27:33 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+21-07-2023 18:27:33 INFO     [reg.py:69] expiry date True
+21-07-2023 18:27:33 INFO     [anuman.py:68] Registration check has passed
+21-07-2023 18:27:40 INFO     [anuman.py:541] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+21-07-2023 18:27:40 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 18:27:40 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 18:27:40 INFO     [anuman.py:1275] efefx_ui updated
+21-07-2023 18:27:40 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 18:27:40 INFO     [tsbatch.py:464] indexed on: Period
+21-07-2023 18:27:40 INFO     [tsbatch.py:465] frequency: Monthly (Month-start)
+21-07-2023 18:27:40 INFO     [tsbatch.py:467] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:27:40 INFO     [tsbatch.py:472] frequency code: MS
+21-07-2023 18:27:40 INFO     [tsbatch.py:476] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:27:40 INFO     [tsbatch.py:502] auto-arima: False
+21-07-2023 18:27:40 INFO     [tsbatch.py:409] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:27:40 INFO     [tsbatch.py:410] dep var: Per_capita_vol
+21-07-2023 18:27:40 INFO     [tsbatch.py:412] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 18:27:40 INFO     [tsbatch.py:418] other-exog: ['COVID']
+21-07-2023 18:27:42 INFO     [anuman.py:1358] transformation-list: []
+21-07-2023 18:27:43 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 18:27:43 INFO     [tsbatch.py:464] indexed on: Period
+21-07-2023 18:27:43 INFO     [tsbatch.py:465] frequency: Monthly (Month-start)
+21-07-2023 18:27:43 INFO     [tsbatch.py:467] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:27:43 INFO     [tsbatch.py:472] frequency code: MS
+21-07-2023 18:27:43 INFO     [tsbatch.py:476] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:27:43 INFO     [tsbatch.py:502] auto-arima: False
+21-07-2023 18:27:43 INFO     [tsbatch.py:409] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:27:43 INFO     [tsbatch.py:410] dep var: Per_capita_vol
+21-07-2023 18:27:43 INFO     [tsbatch.py:412] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 18:27:43 INFO     [tsbatch.py:418] other-exog: ['COVID']
+21-07-2023 18:27:45 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+21-07-2023 18:27:45 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+21-07-2023 18:27:45 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+21-07-2023 18:27:47 INFO     [tsbatch.py:752]  vol-price change:-0.018964217108768777
+21-07-2023 18:27:47 INFO     [tsbatch.py:764] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+21-07-2023 18:27:47 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.15777907012784378, 'RPRICE': -0.029271817725776656}
+21-07-2023 18:27:47 INFO     [tsbatch.py:752]  vol-price change:-0.01930906280389498
+21-07-2023 18:27:47 INFO     [tsbatch.py:764] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+21-07-2023 18:27:47 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1577782445808831, 'RPRICE': -0.029289732832756675}
+21-07-2023 18:27:50 INFO     [tsbatch.py:752]  vol-price change:-0.03638320529994938
+21-07-2023 18:27:50 INFO     [tsbatch.py:764] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+21-07-2023 18:27:50 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1404921951238507, 'RPRICE': -0.05649611160238428, 'COVID': 0.2131911657157612}
+21-07-2023 18:27:50 INFO     [tsbatch.py:752]  vol-price change:-0.037298253788721834
+21-07-2023 18:27:50 INFO     [tsbatch.py:764] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+21-07-2023 18:27:50 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.14049139246476153, 'RPRICE': -0.05651075780199096, 'COVID': 0.21197628020194237}
+21-07-2023 18:29:53 INFO     [anuman.py:49] A new session starts
+21-07-2023 18:29:54 INFO     [anuman.py:1377] in the dashboard
+21-07-2023 18:29:54 INFO     [anuman.py:1421] dashboard rendered successfully
+21-07-2023 18:29:55 INFO     [reg.py:65] xcode: True
+21-07-2023 18:29:55 INFO     [reg.py:66] expired: no
+21-07-2023 18:29:55 INFO     [reg.py:67] machine name IMPUFL0O51 IMPUFL0O51
+21-07-2023 18:29:55 INFO     [reg.py:68] hdd             WN90XFMR             WN90XFMR
+21-07-2023 18:29:55 INFO     [reg.py:69] expiry date True
+21-07-2023 18:29:55 INFO     [anuman.py:68] Registration check has passed
+21-07-2023 18:30:04 INFO     [anuman.py:541] C:/Works 2022/msg-tsf/MSG - TSF/TARIMAX/forecast_and_elasticity.afefx has been selected
+21-07-2023 18:30:04 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 18:30:04 WARNING  [anuman.py:473] update_list_fix_vars: 'Anuman' object has no attribute 'selected_vars_afefx'
+21-07-2023 18:30:04 INFO     [anuman.py:1275] efefx_ui updated
+21-07-2023 18:30:04 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 18:30:04 INFO     [tsbatch.py:464] indexed on: Period
+21-07-2023 18:30:04 INFO     [tsbatch.py:465] frequency: Monthly (Month-start)
+21-07-2023 18:30:04 INFO     [tsbatch.py:467] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:30:04 INFO     [tsbatch.py:472] frequency code: MS
+21-07-2023 18:30:04 INFO     [tsbatch.py:476] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:30:04 INFO     [tsbatch.py:502] auto-arima: False
+21-07-2023 18:30:04 INFO     [tsbatch.py:409] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:30:04 INFO     [tsbatch.py:410] dep var: Per_capita_vol
+21-07-2023 18:30:04 INFO     [tsbatch.py:412] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 18:30:04 INFO     [tsbatch.py:418] other-exog: ['COVID']
+21-07-2023 18:30:05 INFO     [anuman.py:1358] transformation-list: []
+21-07-2023 18:30:07 INFO     [tsbatch.py:48] TSF Batch starts
+21-07-2023 18:30:07 INFO     [tsbatch.py:464] indexed on: Period
+21-07-2023 18:30:07 INFO     [tsbatch.py:465] frequency: Monthly (Month-start)
+21-07-2023 18:30:07 INFO     [tsbatch.py:467] variables: ['Period', 'Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:30:07 INFO     [tsbatch.py:472] frequency code: MS
+21-07-2023 18:30:07 INFO     [tsbatch.py:476] vars after removing index var: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:30:07 INFO     [tsbatch.py:502] auto-arima: False
+21-07-2023 18:30:07 INFO     [tsbatch.py:409] columns: ['Actual Volume', 'GDP_PER_CAPITA', 'RPRICE', 'Per_capita_vol', 'COVID']
+21-07-2023 18:30:07 INFO     [tsbatch.py:410] dep var: Per_capita_vol
+21-07-2023 18:30:07 INFO     [tsbatch.py:412] fixed vars: ['GDP_PER_CAPITA', 'RPRICE']
+21-07-2023 18:30:07 INFO     [tsbatch.py:418] other-exog: ['COVID']
+21-07-2023 18:30:08 INFO     [tsbatch.py:62] A total of 2 combinations of exog variables are being processed
+21-07-2023 18:30:08 INFO     [tsbatch.py:68] ADFTest: p value: 0.01 Non-stationary: False differences req: 0
+21-07-2023 18:30:08 INFO     [tsbatch.py:71] adfuller: (-6.049221375189937, 1.2895963479616434e-07, 5, 64, {'1%': -3.53692771987915, '5%': -2.907887369384766, '10%': -2.591493291015625}, -936.9697812399636)
+21-07-2023 18:30:11 INFO     [tsbatch.py:752]  vol-price change:-0.018964217108768777
+21-07-2023 18:30:11 INFO     [tsbatch.py:764] price elasticity -0.19912427964207197 income elasticity 1.0985415531352878
+21-07-2023 18:30:11 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.15777907012784378, 'RPRICE': -0.029271817725776656}
+21-07-2023 18:30:11 INFO     [tsbatch.py:752]  vol-price change:-0.01930906280389498
+21-07-2023 18:30:11 INFO     [tsbatch.py:764] price elasticity -0.2027451594408971 income elasticity 1.116621238164432
+21-07-2023 18:30:11 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1577782445808831, 'RPRICE': -0.029289732832756675}
+21-07-2023 18:30:14 INFO     [tsbatch.py:752]  vol-price change:-0.03638320529994938
+21-07-2023 18:30:14 INFO     [tsbatch.py:764] price elasticity -0.3820236556494681 income elasticity 0.9702341376863304
+21-07-2023 18:30:14 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.1404921951238507, 'RPRICE': -0.05649611160238428, 'COVID': 0.2131911657157612}
+21-07-2023 18:30:14 INFO     [tsbatch.py:752]  vol-price change:-0.037298253788721834
+21-07-2023 18:30:14 INFO     [tsbatch.py:764] price elasticity -0.3916316647815789 income elasticity 0.9928056750381544
+21-07-2023 18:30:14 INFO     [tsbatch.py:231] std_coeff_dict:{'GDP_PER_CAPITA': 0.14049139246476153, 'RPRICE': -0.05651075780199096, 'COVID': 0.21197628020194237}
+21-07-2023 18:30:14 INFO     [tsbatch.py:219] output has been saved to TSF Training_Punjab.xlsx

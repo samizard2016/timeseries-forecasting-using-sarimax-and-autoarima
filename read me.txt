@@ -1,0 +1,52 @@
+https://machinelearningmastery.com/grid-search-arima-hyperparameters-with-python/
+https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
+https://sailajakarra.medium.com/time-series-predictions-using-arima-sarimax-e6724844cae0
+https://medium.com/@josemarcialportilla/using-python-and-auto-arima-to-forecast-seasonal-time-series-90877adff03c#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6IjAzMmIyZWYzZDJjMjgwNjE1N2Y4YTliOWY0ZWY3Nzk4MzRmODVhZGEiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2Mzc2NTk0MTUsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjEwNTIxNzExOTk3Nzg5NjM0MDIwNSIsImVtYWlsIjoicGF1bHNhbWlyLmdoMjA3QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJuYW1lIjoiU2FtaXIgUGF1bCIsInBpY3R1cmUiOiJodHRwczovL2xoMy5nb29nbGV1c2VyY29udGVudC5jb20vYS0vQU9oMTRHaHYwSXdfTm5fWWdCQW1vQzE1SmRIVmRMSnJWVFNPS3BRMzZhOWU9czk2LWMiLCJnaXZlbl9uYW1lIjoiU2FtaXIiLCJmYW1pbHlfbmFtZSI6IlBhdWwiLCJpYXQiOjE2Mzc2NTk3MTUsImV4cCI6MTYzNzY2MzMxNSwianRpIjoiMTEyMGYyYWNiZjY0Y2NmNmNmZGVmOTVjNzdkMDVkN2VkZTFhZjQ1MyJ9.mYcm6zHS9Y-nEeR_5QkhkaxPVkgj9eQIovtkTlMLAkWr5TWf8ehwtCTLz2s8PN18vL4Iy287suDcdWRzQ9xK272hVzAvSnzd48LTKtxOOL7G0CDrNAVFA9U92E5la_tH0myfC3tEAN3qYYNQfIypgB6XNKq4RzgDrF__CN2rlQhJyBOkHR34wGez5gMA_Igs-tUJ74sefbUkdNYPgiB5elaAp8wWGcS8NZKdl0n2dXuIaWlk9dnP7ltuKuDSq0mhbnATmePw7VKuUKxsCE6Y3PIA6yPcrjGnuxCyzAAcf4AtMpv2QqnEpqusFmI0v4u6fx2287DJi1tqUdtN9LxFrQ
+https://www.pythonguis.com/tutorials/plotting-matplotlib/
+https://datafai.com/auto-arima-using-pyramid-arima-python-package/
+https://wngaw.github.io/auto-arima-with-pyramid/
+https://www.statsmodels.org/dev/examples/notebooks/generated/statespace_sarimax_stata.html
+https://www.machinelearningplus.com/time-series/augmented-dickey-fuller-test/
+https://towardsdatascience.com/identifying-ar-and-ma-terms-using-acf-and-pacf-plots-in-time-series-forecasting-ccb9fd073db8
+https://stats.stackexchange.com/questions/101546/what-is-the-problem-with-using-r-squared-in-time-series-models
+https://www.youtube.com/watch?v=3rRQIbDChvM
+https://medium.com/@anusha.gajinkar/time-series-regression-using-heteroscedasticity-models-88cd2dc4a32
+
+icons
+https://www.flaticon.com/search?word=setup&style=all&order_by=4&type=icon
+
+pyreaqtive
+https://pyreaqtive.readthedocs.io/en/latest/examples/examples.rqtext_rqlineedit_rqlabel.html
+
+https://www.statsmodels.org/dev/generated/statsmodels.tsa.arima.model.ARIMAResults.html
+https://www.statisticshowto.com/order-of-integration/
+
+frequency in time-series data as required in pandas DataFrame
+  Alias    Description
+  B        business day frequency
+  C        custom business day frequency
+  D        calendar day frequency
+  W        weekly frequency
+  M        month end frequency
+  SM       semi-month end frequency (15th and end of month)
+  BM       business month end frequency
+  CBM      custom business month end frequency
+  MS       month start frequency
+  SMS      semi-month start frequency (1st and 15th)
+  BMS      business month start frequency
+  CBMS     custom business month start frequency
+  Q        quarter end frequency
+  BQ       business quarter end frequency
+  QS       quarter start frequency
+  BQS      business quarter start frequency
+  A, Y     year end frequency
+  BA, BY   business year end frequency
+  AS, YS   year start frequency
+  BAS, BYS business year start frequency
+  BH       business hour frequency
+  H        hourly frequency
+  T, min   minutely frequency
+  S        secondly frequency
+  L, ms    milliseconds
+  U, us    microseconds
+  N        nanoseconds

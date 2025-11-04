@@ -1,0 +1,21 @@
+
+{"tsf-batch-settings":
+  {
+    "description":"Thailand_Toothpaste_Nationwide - price and income elasticity on toothpaste volume",
+    "dataset":"thai_toothpaste_vol_final.xlsx",
+    "variables":["vol_per_capita","gdp_per_capita","price_adjusted_inflation","Tourists",
+                 "HDI","Employment","period"],
+    "dependent-var":"vol_per_capita",
+    "transformation":"None",
+    "fixed-xvars":["gdp_per_capita","price_adjusted_inflation"],
+    "indexed on": ["period"],
+    "frequency":"QS",
+    "train-test-ratio":0.80,
+    "decision param":["AIC","MAPE"],
+    "auto-arima":"yes",
+    "signficance":0.05,
+    "ts-order":[4,0,5,0,0,0,0],
+    "sign":{"gdp_per_capita":"positive","price_adjusted_inflation":"negative"},
+    "round-off-summary-data":"Yes"
+  }
+}

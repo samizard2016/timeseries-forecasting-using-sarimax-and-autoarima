@@ -1,0 +1,12 @@
+28-04-2023 09:54:06 INFO     [tsbatch.py:54] A new session starts
+28-04-2023 09:54:06 ERROR    [tsbatch.py:348] problem in reading the TSFBatch settings: [Errno 2] No such file or directory: 'forecast_and_elasticiy.afefx'
+28-04-2023 09:54:09 INFO     [tsbatch.py:54] A new session starts
+28-04-2023 09:54:09 ERROR    [tsbatch.py:348] problem in reading the TSFBatch settings: [Errno 2] No such file or directory: 'forecast_and_elasticiy.afefx'
+28-04-2023 09:54:12 INFO     [tsbatch.py:54] A new session starts
+28-04-2023 09:54:12 ERROR    [tsbatch.py:348] problem in reading the TSFBatch settings: [Errno 2] No such file or directory: 'forecast_and_elasticiy.afefx'
+28-04-2023 09:54:14 INFO     [tsbatch.py:54] A new session starts
+28-04-2023 09:54:15 ERROR    [tsbatch.py:348] problem in reading the TSFBatch settings: [Errno 2] No such file or directory: 'forecast_and_elasticiy.afefx'
+28-04-2023 09:54:17 INFO     [tsbatch.py:54] A new session starts
+28-04-2023 09:54:17 ERROR    [tsbatch.py:348] problem in reading the TSFBatch settings: [Errno 2] No such file or directory: 'forecast_and_elasticiy.afefx'
+28-04-2023 09:54:20 INFO     [tsbatch.py:54] A new session starts
+28-04-2023 09:54:20 ERROR    [tsbatch.py:348] problem in reading the TSFBatch settings: [Errno 2] No such file or directory: 'forecast_and_elasticiy.afefx'
